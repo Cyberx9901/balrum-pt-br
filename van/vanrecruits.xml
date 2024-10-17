@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu quero me tornar um membro da guilda dos magos."/>
+    <dia npc="0" str="Ahh, outra alma perdida. Por que você quer se juntar à nossa sociedade, se posso perguntar?"/>
+    <dia pl="1_0" str="Sempre quis me tornar membro da guilda."/>
+    <dia pl="1_1" str="Estou em uma missão importante e a única maneira de cumprir minha tarefa é sendo aceito em sua guilda." jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia npc="1" str="Você é um péssimo mentiroso. A guilda não precisa de mentirosos."/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Você precisa da guilda. A guilda precisa de você?"/>
+	<dia pl="3" str="A magia corre em minhas veias. Sou capaz de lançar feitiços poderosos e nem sou membro da guilda. Eu seria uma adição digna."/>
+    <dia npc="3" str="Ha ha! A insolência é uma virtude de um grande mago. Tudo bem, você tem minha atenção. Todos os iniciados devem encontrar a moeda de ouro da nossa guilda. Desta vez a moeda foi escondida em algum lugar nas terras dos mortos-vivos. Traga-me a moeda da terra dos mortos-vivos. Deveria ser uma tarefa simples para um mago tão habilidoso como você. Você encontrará a terra dos mortos-vivos logo a sudoeste desta torre. Aguardo seu retorno."/>
+    <dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

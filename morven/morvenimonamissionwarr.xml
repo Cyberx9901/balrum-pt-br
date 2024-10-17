@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Podemos conversar agora?"/>
+    <dia npc="0" str="Felizmente para você, nenhum deles foi ferido. Você não pode falar sobre isso com ninguém. Eles são apenas crianças e estão seguros lá embaixo."/>
+    <dia pl="1" str="Eu os encontrei. Alguém pode encontrá-los também."/>
+    <dia npc="1" str="Você está certo. Tenho que tomar precauções adicionais. Max me disse que você foi gentil com eles. Quem é você?"/>
+    <dia pl="2" str="Estou em uma missão para a guilda dos guerreiros."/>
+    <dia npc="2" str="'Morven olha para você e rapidamente lança um feitiço e desaparece'"/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você pode me ensinar uma nova receita Arda?"/>
+    <dia npc="0" str="Já ensinei algumas receitas para vocês. Por que você não tenta cozinhar algo sozinho? Desde que moramos na floresta, criei mais de uma dúzia de novas receitas. Realmente não é tão difícil. Você precisa experimentar um pouco. Experimente ingredientes diferentes. Misture-os. E o resultado pode ser algo incrível. Mas tome cuidado para não usar nada que possa ser venenoso como as frutas verdes por aqui! Sinta-se à vontade para usar minha fornalha."/>
+    <dia pl="1" str="Tudo bem, Arda. Vou tentar inventar minha própria receita!" jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

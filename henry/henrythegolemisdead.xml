@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Os golens não vão mais incomodar você."/>
+    <dia npc="0" str="Como assim?"/>
+    <dia pl="1" str="Eu derrotei o líder dos golems. Eles não causarão nenhum problema agora."/>
+    <dia npc="1" str="Muito obrigado, jovem. Você prestou um grande serviço ao reino. Embora não tenha havido muita construção ultimamente. A cidade está se deteriorando lentamente."/>
+	<dia pl="2" str="Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

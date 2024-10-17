@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Aqui está a erva cega que você pediu para Walker."/>
+   <dia npc="0" str="Bom. Você está pronto para sua próxima tarefa?"/>
+   <dia pl="1" str="Outra tarefa?"/>
+   <dia npc="1" str="Eu te disse, você precisa me fazer alguns favores antes que eu lhe ensine."/>
+   <dia pl="2" str="O que preciso fazer desta vez?"/>
+   <dia npc="2" str="Você precisa me encontrar um crânio humano."/>
+   <dia pl="3" str="Um crânio humano?"/>
+   <dia npc="3" str="Sua audição está perfeitamente boa, querido filho."/>
+   <dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

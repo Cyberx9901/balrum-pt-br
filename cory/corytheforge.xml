@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que você está fazendo aqui?"/>
+    <dia npc="0" str="O que? Quem é você? Você vale meu tempo? Eu não vi você por aqui."/>
+    <dia pl="1" str="Estou interessado apenas na ferraria."/>
+    <dia npc="1" str="Eu vejo. Interessante. Bem, eu sou como Harad. Fui aprendiz aqui na ferraria. Agora só limpamos o local. Não há ninguém para nos ensinar."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

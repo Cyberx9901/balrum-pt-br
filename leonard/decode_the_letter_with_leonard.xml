@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou de volta da torre do necromante."/>
+    <dia npc="0" str="O menino modesto retorna! Eu sabia que você seria capaz de lidar com a tarefa! Eu tinha certeza do seu retorno. Desde que comecei a treiná-lo, suspeitei que você tivesse um grande potencial."/>
+	<dia pl="1" str="Obrigado pelas suas amáveis palavras, Leonardo. Encontrei alguns dos homens que tentaram explorar a torre. Eles estão todos mortos. Lutei entre os fantasmas e esqueletos e saí do labirinto."/>
+    <dia npc="1" str="Interessante. Você conseguiu chegar ao andar mais alto?"/>
+    <dia pl="2" str="Foi um desafio, mas consegui chegar ao terceiro andar. Todo o andar era um cômodo. O quarto de Lord Benedict. Lutei com Lord Benedict e encontrei uma carta."/>
+    <dia npc="2" str="Uma carta?"/>
+    <dia pl="3" str="A carta tem o mesmo tipo de escrita, como a tábua de pedra. Você pode traduzir também?"/>
+    <dia npc="3" str="Claro. Encontrei alguma ajuda em meus livros, então a tradução não deve demorar muito agora."/>
+    <dia pl="4" str="Aqui está a carta."/>
+    <dia npc="4" str="A carta diz: ‘Arlo será o melhor para nossos planos. Ele não é religioso como Kyler. Ele não nos levará a sério. Ele aceitará todas as nossas condições sem hesitação. Temos que ser pacientes, meus irmãos. O 5º necromante.'"/>
+    <dia pl="5" str="Arlo conversou com os necromantes?"/>
+    <dia npc="5" str="Parece que sim, filho. Eu não sei o que fazer com isso."/>
+    <dia pl="6" str="Eu tenho que ir para Arlo agora mesmo!"/>
+    <dia npc="6" str="Estou curioso para saber o que ele dirá. Parece que algo aconteceu entre os necromantes e Arlo quando nosso povo entrou na floresta. Eu não entendo isso. Os necromantes ainda estão aqui na floresta? Eles foram massacrados há muito tempo pelos reis."/>
+    <dia pl="7" str="Eles foram massacrados?"/>
+    <dia npc="7" str="As pessoas chamam essas florestas de “escuras” por uma razão. Coisas sombrias e malignas aconteceram aqui há muito tempo. Este lugar foi usado por bruxas e necromantes no passado. Eles invocavam criaturas e realizavam rituais sangrentos em nome de Nasrus. Isto foi tolerado durante centenas de anos porque ninguém se atreveu a enfrentá-los. Quando as crianças começaram a desaparecer nas aldeias próximas às florestas, o Rei Triston reuniu os mais fortes e corajosos das terras e entrou na floresta. Eles massacraram todo mundo sem questionar porque não sabiam quem era inocente e quem era mau. Havia uma última mulher segurando nos braços os corpos de várias crianças sem vida. Quando a mataram, as lendas dizem que seu grito foi ouvido por toda parte em Balrum."/>
+    <dia pl="8" str="Vivemos em uma floresta onde aconteciam sacrifícios e assassinatos em massa?"/>
+    <dia npc="8" str="Você provavelmente pode dizer isso em qualquer lugar, filho, mas você está certo. Este lugar não é sagrado e é isso que usamos para nos proteger."/>
+    <dia pl="9" str="Por que eu não sabia disso? Ninguém me contou sobre necromantes e assassinato."/>
+    <dia npc="9" str="Para te proteger, filho. Apenas alguns de nós sabemos o que realmente aconteceu aqui, e os outros simplesmente pensam que as florestas são perigosas e que a magia negra está à espreita nelas."/>  
+    <dia pl="10" str="Acho que sei o suficiente. Irei até Arlo e falarei com ele."/>
+    <dia npc="10" str="Sinto muito, meu garoto, por você ter descoberto a verdade dessa forma. Tenha cuidado com Arlo, ele pode ser desonesto."/>
+	<dia pl="11" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

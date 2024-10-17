@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Saudações. Estou procurando trabalho. Você precisa de ajuda?"/>
+    <dia npc="0" str="Estamos sempre em busca de ajuda. Aquele bastardo impiedoso do Gosfrid nos dá muito trabalho todos os dias. Se alguma coisa quebra, corremos e consertamos e se tudo estiver tranquilo, precisamos trabalhar nos campos ou cortar madeira ou extrair pedras o dia todo. Nunca poderemos descansar. Assim como antes de Darkwood. Ele era nosso chefe lá fora e agora também é nosso chefe na floresta. Pensámos que poderíamos ter outra oportunidade em Darkwood, mas não."/>
+   <dia pl="1" str="Como posso ajudar?"/>
+   <dia npc="1" str="No começo o trabalho não foi tão difícil. Quer dizer, estávamos acostumados com isso. Mas agora, anos depois, estamos envelhecendo. Simplesmente não podemos fazer a mesma quantidade de trabalho que há dez anos. Se você está realmente procurando algo para fazer, tente convencer Gosfrid de que precisamos trabalhar menos e descansar mais. Não podemos prometer nada de valor pelo seu tempo. Somente nossos sinceros agradecimentos."/>
+   <dia pl="20" str="Então bom dia para você." jumpNPCd= "0" jumpPlayerd = "0"/>
+   <dia pl="21" str="Tentarei falar com Gosfrid." jumpNPCd= "2" jumpPlayerd = "3"/>
+   <dia npc="2" str="Obrigado, jovem. Vou contar aos meninos sobre sua gentileza."/>
+   <dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Onde estão os pacotes?"/>
+    <dia npc="0" str="Eles não são da sua conta."/>
+    <dia pl="1" str="Deixe-os livres ou eu irei..."/>
+    <dia npc="1" str="Não muito apressado. A única razão pela qual você ainda está vivo é que o queremos vivo. Todos os seus supostos amigos são um desperdício de vidas preciosas, mas você é diferente. Seu sangue é diferente."/>
+    <dia pl="2" str="Meu sangue é diferente? O que você está falando?"/>
+    <dia npc="2" str="Garoto estúpido. Porque você tem sangue real, é claro."/>
+    <dia pl="3" str="Não tenho sangue real em mim. Venho de uma família simples de agricultores."/>
+    <dia npc="3" str="Interessante. Eles não lhe contaram sobre suas origens. Você ao menos sabe com quem está morando? Ha, você provavelmente não tem ideia de por que seu povo veio para nossa floresta. Agora, por que eles fariam isso? Por que eles mentiriam para você por tanto tempo? Para se protegerem, é claro. Eles são tão covardes que nem confiam em você para contar seu segredo! Com toda a honestidade, tinham de o fazer, porque se os camponeses pobres de alguma forma descobrissem com quem vivem, os rebeldes estariam aqui num instante. Eles criaram uma mentira perfeita."/>
+    <dia pl="4" str="Você está tentando me confundir. Não vai funcionar! Agora me diga; onde estão os pacotes?!"/>
+    <dia npc="4" str="Teimosia, bom, bom. Provavelmente sou um dos poucos que não está mentindo para você. Não é um pouco estranho que ninguém mais tenha decidido morar aqui em Darkwood? Apenas algumas pessoas quando há milhares vivendo lá fora. É porque a maioria de vocês é do castelo. Alguns dos seus vizinhos eram nobres do castelo. Seus amigos patéticos decidiram fugir de sua fé inevitável. Os rebeldes não estavam atrás dos camponeses. Não, eles estavam atrás do rei e dos seus seguidores. Vocês conseguiram escapar e entrar furtivamente em nossa floresta, mas no caminho seu povo tropeçou em uma pequena aldeia. Felizmente, a maioria de vocês já estava disfarçada, usando roupas simples de camponês, e não suas vestimentas reais. Foi fácil convencê-los a se juntar a você. Que maravilha! Agora você tinha servos e proteção também! Devo dizer que quando ouvi isso fiquei realmente impressionado. Seu verdadeiro avô era o rei Triston e seu pai era o rei Eduardo."/>
+    <dia pl="5" str="Você não tem provas dessas mentiras!"/>
+    <dia npc="5" str="Use sua cabeça, criança. Olhe para o seu chamado avô. A magia corre em suas veias. Um simples camponês seria capaz de usar magia? Veja todos os outros. Alquimistas, ferreiros ou bibliotecários são simples aldeões? Há até cavaleiros de armadura brilhante entre eles e um mago da guilda dos magos. Até mesmo um velho sumo sacerdote bêbado. Quando os camponeses se separaram em duas aldeias, metade de vocês ficou na sua aldeia enquanto os outros decidiram morar com Kyler para poder observar tudo de perto."/>
+    <dia pl="6" str="Se você está me dizendo a verdade, então me diga uma coisa. Como você sabe essas coisas?"/>
+    <dia npc="6" str="Nosso querido amigo Arlo foi muito prestativo por muito tempo. Ele nos manteve em contato com tudo o que estava acontecendo na superfície. Até que o pobre tolo percebeu que já havíamos atraído alguns de seus jovens para cá. Deveríamos ter esperado. Depois de uma de nossas reuniões, ele selou o portal com todos nós aqui embaixo. Graças a você, agora estamos livres novamente."/>
+    <dia pl="7" str="Isso não pode ser verdade... Quem é você?"/>
+    <dia npc="7" str="Você sabe quem somos. Somos os verdadeiros donos destas matas. Nossa espécie vive aqui há séculos. A maioria de nós foi massacrada por Triston, mas nossa hora chegou mais uma vez."/>
+    <dia pl="8" str="Por que você está incendiando minha aldeia e sequestrando pessoas?"/>
+    <dia npc="8" str="Temos o direito de fazê-lo. Fizemos um acordo com você."/>
+    <dia pl="9" str="Que acordo?"/>
+    <dia npc="9" str="Quando você entrou covardemente em nossa floresta, fizemos um acordo com seu líder. O acordo era que seu povo pudesse viver na floresta, mas depois de vinte anos seríamos livres para coletar almas imaculadas por qualquer motivo que tivéssemos."/>
+    <dia pl="10" str="Almas imaculadas?"/>
+    <dia npc="10" str="Crianças, é claro. Crianças sem o vínculo dos antepassados. Eles só são úteis para nós se seus pais estiverem fora do caminho."/>
+    <dia pl="11" str="Seus monstros!"/>
+    <dia npc="11" str="Agora, agora, você não quer que sua sorte mude. Acredite, não foi fácil convencer meus irmãos a poupar você. Afinal, você é o sangue de Triston. Mas você é muito mais útil para nós vivo do que morto."/>
+    <dia pl="12" str="Isto tem que parar! O que você quer? Deixaremos Darkwood se for necessário."/>
+    <dia npc="12" str="Deixar? Isso seria uma coisa estúpida de se fazer. Pense garoto! Agora vamos falar sobre por que você está aqui. Por mais que isso nos irrite, temos que admitir que precisamos de você. Não precisamos dos Packs e dos outros. Só poderemos completar o nosso ritual se recuperarmos os nossos poderes. Veja bem, Triston pensou que tinha nos matado, o velho idiota. Ele só poderia prejudicar nossos corpos. Ele espalhou nossos restos mortais por Balrum. Precisamos que você traga nossos restos mortais para nós."/>
+    <dia pl="13" str="Por que eu faria isso por você?"/>
+    <dia npc="13" str="Você tem que. Escusado será dizer que se você recusar, você e seu povo morrerão. Contaremos aos rebeldes sobre Darkwood. Todos esses anos estivemos esperando por você, garoto. Estávamos esperando você crescer. Veja bem, Triston não era tão inteligente, mas seus conselheiros eram. Eles tentaram destruir nossos restos mortais, mas falharam miseravelmente. É por isso que Triston os dispersou. Eles garantiram que apenas a linhagem real seria capaz de chegar até eles. Eles usaram todo o seu conhecimento do arcano para selar nossos locais de descanso. Só você pode ter acesso a eles. E agora que você provou que é capaz, sabemos que terá sucesso. Os incêndios e os sequestros foram todos por sua causa. E você se saiu bem."/>
+    <dia pl="14" str="O que acontece se eu te ajudar? O que acontecerá quando você recuperar seus poderes? Você continuará seus rituais sombrios e matará inocentes. Eu não farei parte disso!"/>
+    <dia npc="14" str="Você não tem escolha! Você abriu o portal e garantimos que essas runas não serão um problema novamente. O portal permanece aberto. Não pode mais ser selado com runas. Todos esses anos estávamos lentamente recuperando nossos poderes. Ainda estamos fracos sem nossos corpos, mas fomos capazes de trazer fogo para suas casas e convocar alguns de vocês mesmo quando o selo do portal estava intacto. Imagine o que podemos fazer agora que você abriu o portal. Você nos libertou."/>
+	<dia pl="15" str="Eu não sabia. Eu só estava tentando ajudar a Matilha."/>
+    <dia npc="15" str="Você não precisa mais se preocupar com os Packs. Ha ha! Assim como seus ancestrais, você também é imprudente. Entendemos que esta tarefa não é simples. Você tem um ano para trazer nossos restos mortais; durante esse período não faremos mal a ninguém. Cabe a você encontrar cada esconderijo. Depois de ter todos os quatro, você poderá entrar na cidade novamente. Lembre-se que você tem um ano, pequeno 'príncipe' Ha ha ha!"/>
+	<dia pl="16" str="Espere..." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

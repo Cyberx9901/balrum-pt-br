@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Trouxe ingredientes para você, Ivo."/>
+    <dia npc="0" str="'Ivo cheira e prova cuidadosamente cada ingrediente que ele acha que pode ser interessante.' Nada disso é bom para o meu novo espírito. Continue procurando, garoto; você está no caminho certo!"/>
+	<dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

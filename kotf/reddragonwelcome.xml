@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Preciso da sua ajuda, dragão."/>
+    <dia npc="0" str="Bem-vindo, mortal. Você não é como os humanos desta ilha. Você deve ser da ilha grande. Por que você precisa da minha ajuda?"/>
+    <dia pl="1" str="Seu irmão, o dragão branco, me disse que se eu conseguir unir vocês três, poderemos destruir os restos mortais dos Necromantes de Darkwood. A vida das pessoas está em jogo."/>
+    <dia npc="1" str="Agora me lembro por que deixei sua ilha. Vocês, mortais, gostam de destruir tudo, incluindo sua própria espécie e seu próprio mundo. Entendo que a mortalidade é um fardo pesado; afinal, nosso irmão mais novo enlouqueceu por causa disso. Ele foi o primeiro e o último dragão mortal. Quando ele percebeu que seus dias estavam contados, seu lado maligno assumiu o controle dele. Ele matou e comeu tudo o que encontrou. Ele viveu o momento. Ele viveu para os prazeres de sua vida limitada. No final, a morte trouxe paz à sua mente. Por que eu deveria ajudá-lo?"/>
+    <dia pl="2" str="Meu povo está em perigo. Se eu falhar, eles terão uma morte horrível."/>
+    <dia npc="2" str="Durante séculos desprezei meu irmão. Ele fez tudo que vocês, humanos, pediram a ele. Ele agiu como um zelador patético. Eu não conseguia entender por que ele gostava tanto de sua espécie. Meus muitos anos nesta ilha me mostraram o porquê. As pessoas aqui não matam. Eles não prejudicam um ao outro. Eles vivem juntos em harmonia. É por isso que tirei deles os restos mortais do necromante quando seu povo os deu a eles há séculos. Isso estava colocando suas vidas em risco. Entendo que sua missão é para o bem de seu povo. E é por isso que vou ajudá-lo, mortal. Eu lhe darei os restos mortais do necromante. Diga-me onde está meu irmão. Eu viajarei até ele."/>
+	<dia pl="3" str="Ele está nas Criptas Reais perto de Erdal. O mais novo de vocês morreu? Como poderei encontrá-lo? Não posso agradecer o suficiente por sua ajuda. Devemos nos apressar."/>
+    <dia npc="3" str="Ele morreu há muito tempo, mas era um dragão. Ele tinha poderes divinos. Ele esculpiu um pequeno pedaço do vazio para si mesmo. Esse reino fantasmagórico é seu próprio reino agora. Só eu posso levar você até ele."/>
+    <dia pl="4" str="Estou pronto. Envie-me para o reino do seu irmão."/>
+    <dia npc="4" str="Você realmente está com pressa. Agora. Fique parado jovem mortal e não irrite meu irmão. Seu lado maligno ainda está com ele."/>
+	<dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

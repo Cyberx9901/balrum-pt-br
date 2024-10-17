@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Soltei um fogo perto da sua fazenda."/>
+    <dia npc="0" str="Obrigado, jovem! Só o tempo dirá se sua ideia funciona. Aqui, tome isso como um agradecimento por sua ajuda. Você é sempre bem-vindo em minha fazenda. Fale com Moulton. Ele pode precisar de ajuda também."/>
+    <dia pl="1" str="Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

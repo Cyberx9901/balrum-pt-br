@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como estão as coisas hoje?"/>
+    <dia npc="0" str="Você também está convidado? Meu nome é Érico. Estou tão animado!"/>
+    <dia pl="1_0" str="Sim eu sou!" jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Convidado?"/>
+    <dia npc="1" str="Me desculpe, eu falo demais. Por favor, saia. Tenho coisas importantes para fazer."/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Eu sabia. Você tem essa aparência. De onde você é? Ah, me desculpe, não é da minha conta, certo? Espero que não fiquemos no porão novamente. Eu adoraria ver a parte superior do castelo. Você não faria isso?"/>
+    <dia pl="3" str="Sim, seria ótimo. Quando teremos que ir? E sou bobo, eu sei, mas esqueci onde fica a entrada."/>
+    <dia npc="4" str="Ah, você é bobo. Seu bobo. Nós simplesmente vamos ao castelo e eles nos dirão o que fazer a seguir. Temos que ir ao pôr do sol. Agora não se esqueça de novo, seu rostinho lindo, você! Eu tenho uma ótima ideia! Por que não vamos juntos? Venha aqui ao pôr do sol e iremos juntos. Quão bom é isso?"/>
+	<dia pl="4" str="Tudo bem. Estarei aqui ao pôr do sol." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

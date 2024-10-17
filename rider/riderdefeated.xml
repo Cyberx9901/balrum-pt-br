@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você foi derrotado, Rider. Foi uma luta justa e eu venci. Você pode dizer ao Bolt que quer que eu participe?"/>
+    <dia npc="0" str="Eu te dei minha palavra e você venceu a luta. Sim, vou contar ao Bolt. Precisamos de homens como você na guilda."/>
+	<dia pl="1" str="Obrigado Cavaleiro." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você já ouviu falar do desaparecimento e dos incêndios de Leonard?"/>
+    <dia npc="0" str="Incêndios? Não, não tenho. Senti muita escuridão. Podem ter sido os incêndios de que você fala. Desaparecimento? Conte-me tudo, garoto."/>
+    <dia pl="1" str="Nossa casa e a casa dos Packs pegaram fogo. A família Pack desapareceu sem deixar vestígios e sua casa pegou fogo. Vovô apagou o fogo a tempo."/>
+    <dia npc="1" str="A família da Matilha desapareceu? Tenho a sensação de que a magia negra está agindo aqui. Fique longe disso, garoto. Para o seu próprio bem."/>
+    <dia pl="20" str="Arlo organizou uma busca pelos Packs. Se precisarem de mim, eu ajudarei." jumpNPCd= "0" jumpPlayerd = "0"/>
+    <dia pl="21" str="Você pode estar certo, Leonardo." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

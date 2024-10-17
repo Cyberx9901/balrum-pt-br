@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou procurando trabalho. Você precisa de ajuda com alguma coisa?"/>
+    <dia npc="0" str="Eu não preciso de nada. Todos os trabalhos da casa estão concluídos. Você poderia dizer que agora posso simplesmente deitar e descansar, já que não tenho nada para fazer. Mas não posso. Por causa do barulho que o troll da floresta está fazendo, não consigo dormir. Não durmo há dias. O troll continua gemendo e gemendo. Dei uma boa olhada e acho que está doentio. Eu não sei o que fazer. Eu preciso dormir. Mas não vou sair de casa. Quem guardaria meus pertences? E não há nenhum lugar decente para ficar em toda Darkwood."/>
+    <dia pl="1" str="Vou pensar em alguma coisa!"/>
+    <dia npc="1" str="Você faria isso? Eu vou recompensá-lo muito se você conseguir fazer aquele troll parar!"/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

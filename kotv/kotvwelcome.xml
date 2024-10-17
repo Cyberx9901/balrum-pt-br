@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Seu irmão me enviou. Eu preciso de sua ajuda."/>
+    <dia npc="0" str="Ahh. Seu cheiro é particular. Você não é um mortal comum. Você é um espécime da linhagem real."/>
+    <dia pl="1" str="Sim eu sou. Seus dois irmãos concordaram em me ajudar. Preciso destruir os restos mortais dos Necromantes de Darkwood. Caso contrário, muitas pessoas inocentes morrerão."/>
+    <dia npc="1" str="Por que você precisa da minha ajuda?"/>
+    <dia pl="2" str="Somente o poder dos dragões pode destruir os restos mortais."/>
+    <dia npc="2" str="Não posso simplesmente entrar no seu mundo, mortal. Vou precisar de um pequeno sacrifício seu."/>
+    <dia pl="3" str="Farei qualquer coisa para ajudar meu povo."/>
+    <dia npc="3" str="Preciso de uma parte da sua mortalidade. O que você pode me oferecer?"/>
+    <dia pl="4" str="Ofereço-lhe minha vitalidade."/>
+    <dia npc="4" str="Ah sim. Doce mortalidade. Eu vou ajudá-lo agora, mortal. Diga-me, onde estão meus irmãos?"/>
+    <dia pl="5" str="Eles estão no subsolo nas Criptas Reais perto de Erdal. Obrigado, dragão. Por favor, leve-nos até seus irmãos. Precisamos nos apressar."/>
+    <dia npc="5" str="Prepare-se, real mortal."/>
+	<dia pl="6" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

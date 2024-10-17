@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Acho que encontrei o urso pardo do Diego."/>
+    <dia npc="0" str="Você já? Eu não quero saber. Eu não sou um trapaceiro. Ele encontrou o urso, deveria ser ele quem o mata."/>
+    <dia pl="1_0" str="Achei que você queria ganhar desta vez?"  jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Eu entendo. Desejo-lhe sorte no desafio."/>
+    <dia npc="1" str="Obrigado."/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Eu tenho honra, você sabe. Agora, por favor, saia, tenho coisas para fazer."/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

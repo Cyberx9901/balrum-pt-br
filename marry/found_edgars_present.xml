@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Encontrei uma estátua para você, Maria! Está na caverna ao sul da vila, onde estão as pedras gigantes."/>
+    <dia npc="0" str="Obrigado, obrigado! Ah, meu marido vai ficar tão feliz! Vou pedir às pessoas que me ajudem a trazer a estátua para cá. Aqui, leve isso para o seu problema e muito obrigado novamente!"/>
+    <dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

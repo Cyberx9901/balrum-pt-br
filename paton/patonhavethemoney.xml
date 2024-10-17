@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aqui pegue o dinheiro."/>
+    <dia npc="0" str="Bom. A escória rebelde nunca abriria mão de tal quantia. Isso prova que posso confiar em você. Você está livre para olhar ao redor. Se você falar deste lugar, descobriremos. Você parece uma criança inteligente, então pode imaginar o que aconteceria com você."/>
+    <dia pl="1" str="Sim, posso."/>
+    <dia npc="2" str="E por falar nisso. Normalmente peço quinhentos táleres. Portanto, não pense que você é “tão” inteligente. E se você conhecer moças bonitas, fique à vontade para contar a elas sobre esse lugar. Posso ter um ou dois empregos para eles. Como servir comida e cantar em uma de nossas festas."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

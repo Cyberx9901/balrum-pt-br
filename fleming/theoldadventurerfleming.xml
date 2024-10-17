@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Quem é você?"/>
+    <dia npc="0" str="Sou um grande aventureiro. Você deve ter ouvido falar de mim. Meu nome é Fleming."/>
+    <dia pl="1" str="Nunca ouvi falar de você, Fleming. Desculpe."/>
+    <dia npc="1" str="Isso não pode ser. Pois bem, você já ouviu falar de meu pai Linwood?" />
+    <dia pl="2" str="O cavaleiro que matou sozinho um urso gigante?"/>
+    <dia npc="2" str="Sim. Sim! Você vê, você me conhece afinal."/>   
+    <dia pl="3" str="Eu só conheço seu pai. O que você está fazendo aqui?"/>
+    <dia npc="3" str="Sou da vila de Kyler e estou em uma grande aventura. Assim como meu pai."/>
+    <dia pl="4" str="Sua armadura parece um pouco frouxa e já começou a enferrujar."/>
+    <dia npc="4" str="Meu pai era muito maior que eu, mas me sinto maior a cada dia. Algum dia serei ainda maior que ele. Mas não tenho tempo de ir a um ferreiro. Talvez você possa me ajudar. Você conhece um grande ferreiro? Porque eu só deixaria um mestre ferreiro tocar na armadura do meu pai."/>
+    <dia pl="5" str="Eu conheço um, o nome dele é Aron. Ele é o melhor ferreiro que você pode encontrar aqui na floresta. Ele criou armas e armaduras excelentes antes de nos estabelecermos em Darkwood." />
+    <dia npc="5" str="Eu vejo. Então ele deveria ficar bem. Então você levaria minha armadura para ele?"/>
+    <dia pl="6" str="Sim, mas não creio que seja barato reparar uma armadura em tão mau estado."/>
+    <dia npc="6" str="Claro. Uma armadura fina como essa precisa de atenção especial, e isso não é barato. O que você acha. Quanto?"/>
+    <dia pl="70" str="100 táleres seriam suficientes."  jumpNPCd = "7" jumpPlayerd = "8"/> 
+    <dia pl="71" str="200 táleres serão suficientes."  jumpNPCd = "8" jumpPlayerd = "8"/> 
+    <dia pl="72" str="Pensando bem, ele pode até consertar sua famosa armadura de graça." jumpNPCd = "9" jumpPlayerd = "8"/>
+    <dia npc="7" str="Olha Você aqui. Estarei por aqui. Por favor, tome cuidado especial. Essa armadura significa muito para mim."/>
+    <dia npc="8" str="Multar. É melhor que aquele ferreiro valha a pena. Por favor, tome cuidado especial. Essa armadura significa muito para mim."/>
+    <dia npc="9" str="Isso era o que eu estava pensando. Qualquer ferreiro ficaria feliz em trabalhar de graça na minha famosa armadura. Pegue. Por favor, tome cuidado especial. Essa armadura significa muito para mim. E aqui estão 50 táleres pelo seu tempo, companheiro aventureiro."/>    
+    <dia pl="8" str="Fim." jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>

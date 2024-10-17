@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que é esse lugar?"/>
+    <dia npc="0" str="Saudações, jovem. Meu nome é Norcross. Sou o guardião do antigo mosteiro."/>
+    <dia pl="1" str="Você pode me contar sobre o mosteiro?"/>
+    <dia npc="1" str="Eu certamente posso. O mosteiro foi construído há séculos para agradar aos antigos deuses. Estas paredes foram o lar de muitos monges do reino. A vida de um monge é uma vida de serenidade. Uma vida de doação e cura. Inúmeras vezes os monges deste mosteiro ajudaram o povo do reino. Eles estavam lá para ajudar em todos os momentos decisivos da história de Balrum."/>
+    <dia pl="2" str="Você pode me contar mais?"/>
+    <dia npc="2" str="Minhas memórias desapareceram, meu filho. Sinta-se à vontade para consultar a biblioteca se estiver procurando documentos sobre a história deste grande mosteiro."/>
+	<dia pl="3" str="Obrigado pai."/>
+    <dia npc="3" str="Não nos confunda com padres. Não somos padres, meu filho."/>
+	<dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

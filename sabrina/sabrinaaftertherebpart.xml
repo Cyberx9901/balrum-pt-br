@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que aconteceu?"/>
+    <dia npc="0" str="Muitas coisas aconteceram. Coisas boas. Coisas cansativas."/>
+    <dia pl="1" str="Estou tonto. Acho que estou doente."/>
+    <dia npc="1" str="Isso acontece de vez em quando, então não se surpreenda. Vá visitar Roberta. Ela sabe como curar você depois de uma noite como esta."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

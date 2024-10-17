@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu alimentei seus porcos, Osric."/>
+    <dia npc="0" str="Obrigado, garoto. O mundo seria um lugar melhor com mais rapazes como você. Aqui, pegue esta linguiça de porco defumada. Ontem terminei um lote, então está lindo e fresco. Eu sei que você gosta. Ah, e leve um para o seu avô também."/>
+    <dia pl="1" str="Obrigado Osric!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

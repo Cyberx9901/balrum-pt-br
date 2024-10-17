@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Encontrei a moeda!"/>
+    <dia npc="0" str="'Van parece genuinamente surpreso', eu vejo. Bem, você completou sua primeira tarefa. Bom trabalho. De agora em diante você é um novato da guilda. O novato não é nem mesmo um posto, e ser um não lhe garante a adesão. Agora você precisa conquistar a confiança de três membros da guilda. Volte quando tiver conquistado a confiança deles."/>
+    <dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

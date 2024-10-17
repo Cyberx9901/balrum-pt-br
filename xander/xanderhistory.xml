@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você tem uma bela casa aqui."/>
+    <dia npc="0" str="Na verdade, estranho. A casa pertencia a nobres gordos. Foi brincadeira de criança assustá-los, mas isso foi há muitos anos."/>
+    <dia pl="1" str="Você sabe o que aconteceu com eles?"/>
+    <dia npc="1" str="Não faço ideia. Eu realmente não me importo. Eles merecem experimentar uma vida mais difícil."/>
+    <dia pl="2" str="Por que?"/>
+    <dia npc="2" str="As pessoas nos odeiam por invadirmos suas terras, mas merecemos estar no comando. O rei da sua espécie nos baniu para morrer."/>
+	<dia pl="3" str="Baniu você?"/>
+    <dia npc="3" str="Quando as pessoas da cidade decidiram se esconder no subsolo, sabiam que não havia espaço suficiente lá embaixo. Claro, apenas aqueles que eram ricos o suficiente entraram na lista. Nossos pobres ancestrais camponeses foram deixados para trás para serem queimados."/>
+    <dia pl="4" str="Para queimar?"/>
+    <dia npc="4" str="O deus louco começou a queimar Balrum. Ele convocou meteoros e incinerou as casas das pessoas, apenas por diversão. Naquela época, o conselho decidiu mover a cidade para a clandestinidade."/>
+    <dia pl="5" str="Onde estava essa cidade que o deus louco destruiu?"/>
+    <dia npc="5" str="A cidade foi construída há séculos em Darkwood. As lendas dizem que a floresta recuperou as ruínas da cidade. Não sobrou nada disso. Apenas a cidade subterrânea permanece como uma lembrança do que aconteceu."/>
+	<dia pl="6" str="Eu vou embora." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

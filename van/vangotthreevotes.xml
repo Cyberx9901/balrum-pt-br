@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Conquistei a confiança de Rod, Dex e Fay."/>
+    <dia npc="0" str="Você já? Ouvi dizer que você ajudou Fay e também fez um grande favor a Dex. Ele ficou muito feliz. Algo a ver com seus golems. Mas não tive notícias de mais ninguém."/>
+    <dia pl="1" str="Eu também ajudei Rod. Ele tinha uma tarefa incomum, mas eu consegui."/>
+    <dia npc="1" str="Ah, Rod. Ele não gosta de novatos. Não estou surpreso que ele não tenha dito nada. Bem, então. Isso faz três. Você se saiu bem. De agora em diante você é membro da guilda dos magos! Você tem acesso total à torre. Contarei aos outros membros sobre o seu sucesso. Você estava procurando nossas respostas quando nos conhecemos. Você encontrará o que procura na antiga biblioteca. Pegue esta runa. Isso o levará até lá. Cada evento importante da guilda foi minuciosamente documentado. Os livros da nossa biblioteca possuem grande conhecimento. Não se esqueça de colocá-los de volta. E não se esqueça de conversar com os outros. De agora em diante eles negociarão com você e lhe ensinarão."/>
+    <dia pl="2" str="Obrigado, Van!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

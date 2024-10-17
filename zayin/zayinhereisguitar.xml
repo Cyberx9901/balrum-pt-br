@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Encontrei uma guitarra."/>
+    <dia npc="0" str="Zayin dá uma olhada na velha guitarra que encontrei. Lentamente, um enorme sorriso aparece em seu rosto. Você encontrou! Você encontrou o violão do meu pai!"/>
+    <dia pl="1" str="O violão era do seu pai?"/>
+    <dia npc="1" str="Ele era um músico excelente. Esta foi sua primeira guitarra. Secretamente, eu esperava que você o encontrasse e aqui está. Obrigado. Muito obrigado jovem viajante. Onde você encontrou isso?"/>
+    <dia pl="2" str="Estava caído no chão de uma casa abandonada no meio de Erdal."/>
+    <dia npc="2" str="Deve ter sido a nossa antiga casa. Tive que fugir de Erdal por causa dos rebeldes. Eles mataram meu pai quando eu era pequeno. Não posso te dar muito, mas aqui, pegue isso. Espero que isso o ajude em suas viagens."/>
+	<dia pl="3" str="Obrigado Zayin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

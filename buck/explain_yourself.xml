@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Por que há cadáveres na sua sala dos fundos? Explique-se!"/>
+   <dia npc="0" str="Como, como você sabe?"/>
+   <dia pl="1" str="Encontrei sua poção. Por que você está escondendo cadáveres? Diga-me, ou contarei aos outros agora mesmo."/>
+   <dia npc="1" str="Acalmar. Eu sei o que parece, mas não sou um assassino nem um louco. Estou estudando os corpos dos falecidos. Sou curandeiro, mas não tradicional. Estou curando sem feitiços. Venho pesquisando esse novo tipo de cura há muito tempo porque há menos curandeiros em Balrum, dia após dia. As pessoas desta aldeia não vão entender que é por isso que tenho que esconder a minha pesquisa."/>
+   <dia pl="20" str="Eu não acredito em você! As pessoas precisam saber o que você está fazendo com seus entes queridos." jumpNPCd= "0" jumpPlayerd = "0"/>
+   <dia pl="21" str="Qual é esta nova forma de cura?"/>
+   <dia npc="2" str="Em vez de magia eu curo com as mãos e remédios especiais. Se algo precisa ser cortado, eu corto. Se algo rasga, eu conserto."/>
+   <dia pl="3" str="Isso parece bárbaro, mas de alguma forma eu acredito em você. Posso pegar um pouco do seu remédio especial?"/>
+   <dia npc="3" str="Sim, você pode, mas por favor não revele minha pesquisa. Eu sabia que o cheiro seria um problema."/>
+   <dia pl="4" str="Eu não vou. Quando terminar com os corpos, por favor, dê-lhes o respeito que merecem." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

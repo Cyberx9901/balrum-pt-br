@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você sabe alguma coisa sobre tábuas de pedra, Osric?"/>
+    <dia npc="0" str="Não tenho ideia do que, em nome dos deuses, você está falando, filho."/>
+    <dia pl="10" str="Thurza encontrou uma placa de pedra na casa dos Packs."/>
+    <dia pl="11" str="Encontrei uma placa de pedra na casa dos Packs."/>
+    <dia npc="1" str="Bem, não tenho ideia do que possa ser. Brown pode saber de alguma coisa. Afinal, ele é um alquimista famoso. Outro dia, quando um dos meus porquinhos ficou doente, ele me preparou uma poção especial que curou meu porquinho. Se ele não souber disso, ninguém saberá."/>
+    <dia pl="2" str="Tudo bem, Osric." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

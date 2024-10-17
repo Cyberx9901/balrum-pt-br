@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Onde posso comprar materiais?"/>
+    <dia npc="0" str="Você precisará de pregos, madeira e uma maçaneta decente. Madeira você encontra em qualquer lugar, mas uma maçaneta e alguns pregos resistentes precisam ser feitos por um ferreiro. Vá para Aaron. Ele lhe venderá as coisas que você precisa. Além disso, você pode visitar seu mestre carpinteiro, Jones. Ele pode ajudá-lo com os trabalhos mais delicados."/>
+	<dia pl="1" str="Obrigado, vovô. Vou cortar a madeira que precisamos e visitar Aron para pegar a mercadoria." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

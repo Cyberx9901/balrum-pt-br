@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu sei que você foi visto no bordel, pai."/>
+    <dia npc="0" str="Bobagem! Sobre o que você está tagarelando?"/>
+    <dia pl="1" str="Falei com Sabrina, pai."/>
+    <dia npc="1" str="Sabrina? E você acredita nisso pouco... Chega disso. Deixe-me garoto. Agora!"/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

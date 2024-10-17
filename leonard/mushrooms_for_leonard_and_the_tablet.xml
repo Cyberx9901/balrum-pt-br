@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aqui estão os cogumelos que Barnabé lhe devia."/>
+    <dia npc="0" str="Perfeito. Da próxima vez aquele velho terá que ser mais preciso."/>
+	<dia pl="1" str="E a tábua de pedra? Você já traduziu?"/>
+    <dia npc="1" str="Sim, meu rapaz, eu tenho."/>
+    <dia pl="2" str="E? O que isso diz?"/>
+    <dia npc="2" str="Rapaz, a aldeia é um grande perigo."/>
+    <dia pl="3" str="O que? Qual é o problema?"/>
+    <dia npc="3" str="Isto é o que as esculturas significam. “Audie, Puck, Frieda. Na vida ou na morte você nos servirá para sempre."/>
+    <dia pl="4" str="Quem escreveria uma coisa dessas? O que isso pode significar?"/>
+    <dia npc="4" str="Agora eu me lembro. Eu vi uma placa de pedra familiar na torre do necromante. Se os necromantes não estiverem mortos, então Darkwood é um lugar perigoso para se viver. Quando eu estava explorando a torre, só consegui chegar ao segundo andar. Senti uma presença sombria, mas atribuí-a aos fantasmas que assombram os corredores. Não sei, mas pode haver algo naquela torre que não sabemos. Muitos tentaram explorar a torre, mas nenhum voltou. É por isso que Arlo proibiu qualquer pessoa de entrar na torre. Eu guardo a chave da torre."/>
+    <dia pl="5" str="Agora entendo por que o vovô me disse para não chegar perto da torre. Precisamos contar a todos sobre isso!"/>
+    <dia npc="5" str="Não, garoto! Não conte a ninguém ainda. Se o pânico surgir, as pessoas poderão abandonar a floresta e até termos a certeza do que está a acontecer, a floresta é um lugar mais seguro do que o mundo exterior."/>
+    <dia pl="6" str="Mas os Packs provavelmente já estão mortos!"/>
+    <dia npc="6" str="Eu também temo isso, meu rapaz. Precisamos evitar que algo assim aconteça novamente. O mundo exterior é um lugar perigoso para mulheres e crianças. Mesmo para um homem forte como você."/>
+    <dia pl="7" str="Eu entendo. Como isso pôde acontecer? E por que agora?"/>
+    <dia npc="7" str="Não sei. Poderemos saber mais se você explorar completamente a torre."/>
+    <dia pl="8" str="Eu farei o que puder."/>
+    <dia npc="8" str="Esta não é uma tarefa fácil. Você precisará usar tudo o que aprendeu comigo e com os outros mestres. Aqui, tome essas poções."/>
+    <dia pl="9" str="Obrigado, Leonardo."/>
+    <dia npc="9" str="Aqui está a chave da torre. Você precisará descobrir como chegar ao topo da torre sozinho. O segundo andar é um grande labirinto. Eu mal encontrei uma saída. Não sei o que espera por você além do segundo andar."/>
+    <dia pl="10" str="Deseje-me sorte, Leonardo."/>
+    <dia npc="10" str="Seja extremamente cuidadoso, meu filho. O destino da aldeia pode estar nas suas mãos. Vou passar por todos os meus livros. Talvez eu encontre algo que nos ajude."/>
+	<dia pl="11" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

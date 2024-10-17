@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Robert está morto. Ele vagou muito perto dos ursos."/>
+    <dia npc="0" str="Pobre Roberto. Uma criança poderia tê-lo empurrado de volta ao caminho certo. Quando conversávamos, eu sempre tentava arrancar dele por que ele bebia tanto, mas ele nunca me contou. Sua esposa é uma mulher incrível e amorosa e eles têm tudo que precisam. Mesmo assim ele procurou a paz no fundo da caneca."/>
+    <dia pl="10" str="Se Thursa estiver realmente grávida, seu filho ficará melhor sem um pai assim."/>
+    <dia pl="11" str=He might have changed for the better."/>
+    <dia npc="1" str="Encontrei uma carta no corpo dele. Ele escreve sobre deixar seus pais para trás e ter pesadelos com eles sendo torturados. O que ele poderia querer dizer?"/>
+    <dia pl="2" str="Isso explica por que ele estava bêbado todas as noites ultimamente. Muitas coisas estranhas estão acontecendo nesta vila ultimamente."/>
+    <dia npc="2" str="Vou contar a Thurza."/>
+    <dia pl="3" str="I'm going to go and tell Thurza." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

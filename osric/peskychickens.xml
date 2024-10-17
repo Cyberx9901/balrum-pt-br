@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Posso ajudar mais alguma coisa com Osric?"/>
+    <dia npc="0" str="Aquelas galinhas irritantes de novo. Alguns deles conseguiram sair do cercado. Você pode encontrá-los e trazê-los de volta para mim? Às vezes eles se escondem nos arbustos."/>
+    <dia pl="10" str="Não tenho tempo para correr atrás de galinhas." jumpNPCd= "1" jumpPlayerd = '2'/>
+    <dia pl="11" str="Tudo bem, Osric. Eu os encontrarei." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="1" str="Bem, então por que você está me perguntando?"/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Já terminei os reparos, Lona."/>
+    <dia npc="0" str="Obrigado, estranho, pela sua ajuda. Isso significa muito. As crianças me disseram que estão muito gratas pela sua ajuda."/>
+	<dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

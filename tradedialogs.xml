@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <diastr s="Gostaria de dar uma olhada no seu inventário."/>
+	<diastr s="Estou aqui para perguntar sobre seus serviços."/>
+	<diastr s="Estou precisando de suprimentos."/>
+	<diastr s="Preciso de alguns suprimentos."/>
+	<diastr s="Estou aqui para dar uma olhada no seu inventário."/>
+	<diastr s="O que você tem para vender?"/>
+	<diastr s="Gostaria de ver o que você tem para vender."/>
+	<diastr s="Gostaria de dar uma olhada em sua mercadoria."/>
+	<diastr s="Mostre-me suas mercadorias."/>
+	<diastr s="Mostre-me seus produtos."/>
+</dialogs>

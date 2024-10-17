@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Buck está escondendo cadáveres em sua casa! Você tem que fazer alguma coisa!"/>
+    <dia npc="0" str="O que você está falando? Cadáveres? Na casa dele?"/>
+	<dia pl="1" str="Ele está escondendo pelo menos meia dúzia de cadáveres. Algo tem que ser feito rapidamente antes que ele desapareça!"/>
+	<dia npc="1" str="Blasfêmia! Como ele ousa? Vou mandar buscá-lo agora mesmo. Uma fria cela de prisão será sua casa de agora em diante. Adacus não tolerará tais atos heréticos."/>
+	<dia pl="2" str="Fim."  jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

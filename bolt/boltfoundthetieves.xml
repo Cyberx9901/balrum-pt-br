@@ -1,0 +1,14 @@
+<?xmlversion="1.0"encoding="UTF-8"?>
+
+<dialogs>
+<diapl="0"str="Euencontreiosladrões.Elessãotodoscriançaspequenas."/>
+<dianpc="0"str="Criançasvocêdiz?Oquemaisvocêdescobriu?"/>
+<diapl="1_0"str="Ascriançastêmumzelador.ElesechamaMorven.Elessóroubamoqueprecisamparasobreviver.Seuspaisforammortospelosrebeldeseelesvagarampelasflorestaspormuitotempo.Morvenosacolheueosescondeunosubsolo."jumpNPCd="1"jumpPlayerd='3'/>
+<diapl="1_1"str="Seuspaisforammortospelosrebeldeseelesvagarampelasflorestaspormuitotempo.Elessóroubamoqueprecisamparasobreviver."jumpNPCd="2"jumpPlayerd='3'/>
+<dianpc="1"str="Morven!Eledeveestartreinandoascriançasparaseremladrões.Morvenémembrodoclãdosladrões.Obrigadopornostrazerestainformação.Agiremosimediatamente.Levaremosascriançasaosmagos.Elesnãoserãoprejudicados."/>
+<diapl="2"str=""/>
+<dianpc="2"str="Iunderstand.Theydonoharmtoanyonedownthere.Theyneedthefoodtheystealtolive.Theyarefighters,thelittleones.Let'shopesomedaywewilltakethecapitalback.Untilthentheyaresaferdownthere."/>
+<diapl="3"str="Ihavefinishedthetaskyougaveme.Willyouallowmetojoinyou?"jumpNPCd="3"jumpPlayerd='4'/>
+<dianpc="3"str="Speaktotheboyshere.Ifyougaintheirtrustwewillwelcomeyouintoourguild!"/>
+<diapl="4"str="End."jumpNPCd="0"jumpPlayerd='0'/>
+</dialogs>

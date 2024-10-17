@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu matei o urso de Diego."/>
+    <dia npc="0" str="O que? Por que? Por que você fez isso? O que vamos fazer?"/>
+    <dia pl="1" str="Eu tenho o pelo dele. Você pode ficar com isso."/>
+    <dia npc="1" str="Tire isso daqui. Eu não quero isso."/>
+    <dia pl="2" str="Achei que você queria ganhar desta vez?"/>
+    <dia npc="2" str="Existe uma coisa chamada honra, você sabe... mas temos que respeitar a besta. Não posso fazer disso um troféu. Os outros – e principalmente Diego – ficariam furiosos. Hum. E se mudarmos seu pelo para preto?"/>
+	<dia pl="3" str="O que?"/>
+    <dia npc="3" str="Se Diego vir o urso pardo, certamente o reconhecerá. Temos que tingi-lo."/>
+    <dia pl="4_0" str="Isso não é realmente uma coisa honrosa de se fazer." jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia pl="4_1" str="Como podemos tingir seu pelo?"/>
+    <dia npc="4" str="Dê para mim. Posso deixar seu pelo preto. Obrigado pela ajuda. Embora deva dizer que a minha consciência me diz que isto não está certo. Por outro lado, temos que homenagear a grande ursa. Eu prometi a você meu conhecimento. De agora em diante vou te ensinar tudo o que sei."/>
+	<dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="5" str="Você está certo. Não podemos fazer isso. Fique com o troféu. Agora, por favor, saia."/>
+	<dia pl="6" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

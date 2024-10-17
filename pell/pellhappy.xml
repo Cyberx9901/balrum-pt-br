@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aconteceu alguma coisa?"/>
+    <dia npc="0" str="Você não vai acreditar! Durante anos nada aconteceu e agora eu realmente tive que sair da torre porque uma fera se aproximou demais. Meu coração estava batendo forte, mas consegui matar a fera. Foi emocionante!"/>
+	<dia pl="1" str="Que bom para você, Pell." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Vejo que você começou a trabalhar. Como está tudo?"/>
+    <dia npc="0" str="É bom trabalhar novamente. Minhas mãos não são as mesmas. Eles precisam se fortalecer novamente. Volte amanhã para pegar a armadura que prometi a você. Você não ficará desapontado. E fique à vontade para falar comigo se quiser aprender."/>
+	<dia pl="1" str="Vai fazer." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

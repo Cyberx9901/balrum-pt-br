@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aqui está a roupa que você pediu."/>
+    <dia npc="0" str="Já faz muito tempo desde que tive alguns desses. Obrigado, jovem. Agora é hora de concluir minha parte do acordo, certo? Ouça e olhe com atenção, garoto. Esse é o tipo de conhecimento pelo qual as pessoas têm problemas. 'Algumas horas se passam. O velho conhece sua arte. Ele é um bom professor. Agora sei fazer roupas com linho antigo.'"/>
+    <dia pl="1" str="Obrigado por compartilhar seu conhecimento comigo."/>
+    <dia npc="1" str="O prazer é meu, garoto. Se ao menos meu filho fosse um pouco como você."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

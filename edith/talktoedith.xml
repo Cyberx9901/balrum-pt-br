@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Olá Edith."/>
+    <dia npc="0" str="Olá. Como você está hoje?"/>
+    <dia pl="10" str="Vou bem obrigado. Eu só queria ter certeza de que você está bem." jumpNPCd = "1" jumpPlayerd = "2"/>
+    <dia pl="11" str="Vou bem obrigado. Eu estava pensando em você, então aqui estou." jumpNPCd = "2" jumpPlayerd = "2"/>
+    <dia npc="1" str="Como você vê, está tudo bem. A mãe está preparando os campos para a segunda semeadura. A coisa mais estranha aconteceu ontem à noite. Eu tive um sonho e você estava nele."/>
+    <dia npc="2" str="Isso é gentil da sua parte. Ontem à noite tive um sonho e você estava nele."/>
+    <dia pl="2" str="Um sonho? Que tipo de sonho? O que aconteceu nele?" jumpNPCd = "3" jumpPlayerd = "3"/>   
+    <dia npc="3" str="Estávamos comendo pão de mel; tudo estava lindo, e de repente Osric surgiu do nada montado em um de seus grandes porcos."/>
+    <dia pl="3" str="Esse é um sonho estranho. Aconteceu mais alguma coisa?"/>
+    <dia npc="4" str="Sim, havia mais. Mal me lembro, mas de repente as flores e plantas ao nosso redor apodreceram. É isso. O que isso poderia significar? O que você acha?"/>
+    <dia pl="40" str="Os sonhos às vezes são completamente ilógicos. Eu não acho que isso significou alguma coisa." jumpNPCd = "5" jumpPlayerd = "5"/>   <dia pl="41" str="I think it meant that we should have a nice meal out in the forest. Just the two of us." jumpNPCd = "6" jumpPlayerd = "6" />
+    <dia npc="5" str="Você pode estar certo. Pensar na imagem de Osric montando um porco é muito engraçado."/>
+    <dia pl="5" str="Até mais." jumpNPCd = "0" jumpPlayerd = "0"/>
+    <dia npc="6" str="Eu esperava que você dissesse isso."/>
+    <dia pl="6" str="Tenho algumas coisas para fazer agora, Edith, mas seria ótimo."/>
+    <dia npc="7" str="Eu sei que você está ocupado com muitas coisas. Ajudar seu avô é uma coisa nobre de se fazer. Talvez um dia possamos fazer uma boa refeição juntos."/>
+    <dia pl="7" str="Algum dia iremos Edith. Tomar cuidado." jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>

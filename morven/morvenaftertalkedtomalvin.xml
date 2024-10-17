@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O enfeite que tive que roubar não valia nada?"/>
+    <dia npc="0" str="Sim, foi. Foi apenas um teste. E eu gosto de jogar naquele velho Malvin. Ele é o maior hipócrita que esta terra já viu."/>
+	<dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que você sabe sobre as Matilhas e os incêndios, Osric?"/>
+    <dia npc="0" str="Não mais que os outros, então não muito. Arlo acha que a culpa é das tochas de Aron. Os Packs não deixaram rastros. Como se a terra os engolisse. Eu conhecia Pack muito bem. Ele nunca sairia da aldeia sem dizer alguma coisa. Agora ele se foi com toda a família. É muito estranho."/>
+    <dia pl="1" str="Na nossa casa o fogo começou longe da tocha na parede. A parede que segura a tocha não foi queimada. Portanto, as tochas de Aron não podem ser culpadas. O desaparecimento dos Packs é realmente perturbador."/>
+    <dia npc="1" str="Tenho duas tochas e tenho me preocupado com elas. Eu sabia que Aron nunca venderia nada que pudesse nos prejudicar. Temo o pior para a Matilha. Esperemos que eles os encontrem logo. Então, se não foram as tochas, o que iniciou o incêndio?"/>
+    <dia pl="2" str="Ninguém sabe ainda, Osric." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

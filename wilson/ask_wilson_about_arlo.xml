@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu sei que Arlo estava conversando com os necromantes."/>
+    <dia npc="0" str="Fale baixo, garoto! Eu sabia que um dia alguém iria descobrir isso."/>
+    <dia pl="1" str="Eu sei que você é um soldado leal, Wilson. Mas vidas estão em jogo. Poderemos ajudar a Matilha se agirmos agora. Conte-me tudo o que você sabe!"/>
+    <dia npc="1" str="Quando fugimos para a floresta há vinte anos, o povo de Kyler e Arlo começou a construir juntos uma grande aldeia. Algo aconteceu entre eles, e um dia Kyler anunciou que seu povo deixaria a aldeia e construiria uma segunda aldeia do outro lado da floresta. Arlo nunca falou sobre isso."/>
+    <dia pl="2" str="O que poderia ter acontecido?"/>
+    <dia npc="2" str="Eu já te contei mais do que deveria. Isso é tudo que sei. Se você me ouvir, deveria ir visitar Kyler na outra aldeia. Você pode encontrar respostas para suas perguntas lá."/>
+	<dia pl="3" str="Obrigado, Wilson. Eu vou chegar ao fundo disso." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

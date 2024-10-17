@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como vão as coisas, pai?"/>
+    <dia npc="0" str="Está um lindo dia, não é, querido filho. Eu não vi seu rosto antes. Sejam bem-vindos à nossa igreja."/>
+    <dia pl="1" str="Estou procurando trabalho."/>
+    <dia npc="1" str="Você poderia me ajudar em alguma coisa. Suspeito que seja um caso bastante delicado. Posso confiar em você com esse assunto?"/>
+    <dia pl="2" str="Vou lidar com isso com delicadeza, pai. Você pode confiar em mim."/>
+    <dia npc="2" str="Ultimamente tenho ouvido... bem... ruídos. Como posso dizer isso para você, filho. Ruídos... Ruídos de prazer, presumo. Ruídos de grande prazer."/>
+    <dia pl="3" str="Sinto muito, pai, mas não entendo. Você pode ser mais específico?"/>
+    <dia npc="3" str="Você sabe quando uma mulher e um homem..."/>
+    <dia pl="4" str="Eu entendo agora pai."/>
+    <dia npc="4" str="Este tipo de atividade é proibida entre nossos membros. O que piora a situação é que suspeito fortemente que as mulheres envolvidas estão... você sabe... trabalhando."/>
+	<dia pl="5" str="O que eu preciso fazer, pai?"/>
+    <dia npc="5" str="Eu tenho tudo planejado. Ouça com atenção. Diga aos meus irmãos que você ouviu falar de rumores sobre recém-nascidos sem pai. E você está com muito medo porque já esteve no bordel algumas vezes. Um dos filhos pode ser seu. Pergunte a eles o que fazer. Acho que isso vai assustá-los o suficiente. O que você acha?"/>
+    <dia pl="6" str="Parece um bom plano, pai."/>
+    <dia npc="6" str="Agora você não precisa falar com as meninas. Basta contar minha historinha para meus irmãos, certo?"/>
+	<dia pl="7" str="O que receberei em troca?"/>
+    <dia npc="7" str="Vou te ensinar o que aprendi ao longo dos anos. Eu conheço alguns feitiços, você sabe. O que você diz?"/>
+    <dia pl="8" str="Vou falar com eles, pai."/>
+    <dia npc="8" str="Obrigado, meu filho. Agora vá embora."/>
+	<dia pl="9" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Encontrei para você um crânio humano."/>
+   <dia npc="0" str="Você realmente tem. Estou orgulhoso de você. Mas preciso de uma última coisa sua antes de lhe ensinar."/>
+   <dia pl="1" str="Apenas me diga o que preciso fazer."/>
+   <dia npc="1" str="Não seja rude, ou posso mudar de ideia. Encontre-me a capa de um feiticeiro. Pode estar em mau estado, não importa."/>
+   <dia pl="2" str="Por onde devo começar a procurar?"/>
+   <dia npc="2" str="Existem criptas por toda esta área. Os necromantes usaram este lugar por centenas de anos, então isso não é surpresa. Eles também precisam honrar seus mortos. Acho que a sua melhor hipótese está numa dessas criptas."/>
+   <dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

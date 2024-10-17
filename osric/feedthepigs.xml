@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você precisa de ajuda, Osric?"/>
+    <dia npc="0" str="Na verdade, sim, preciso de uma ajudinha. Você pode alimentar os porcos para mim? É só pegar esse milho e colocar no cocho do porco."/>
+    <dia pl="10" str="Faça isso você mesmo, Osric." jumpNPCd= "1" jumpPlayerd = '2'/>
+    <dia pl="11" str="Claro. Dê o milho aqui e eu alimentarei seus porcos, Osric." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="1" str="Bem, então por que você está desperdiçando meu tempo, garoto!"/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que aconteceu com Cory?"/>
+    <dia npc="0" str="Ele era um espião rebelde! Ele nos atacou! Isso tinha que ser feito."/>
+    <dia pl="1" str="Precisamos ter muito cuidado. Se os rebeldes descobrirem que há um ferreiro capaz trabalhando novamente, que pode forjar armas, eles procurarão por nós em toda a cidade."/>
+    <dia npc="1" str="Você está certo. Precisamos ficar baixos."/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

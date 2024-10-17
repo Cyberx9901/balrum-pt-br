@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que você faz aqui?"/>
+    <dia npc="0" str="Fazemos linho com plantas de linho. Se você quiser saber mais, pergunte ao meu pai. Ele sabe muito mais sobre arte do que eu."/>
+	<dia pl="1" str="Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

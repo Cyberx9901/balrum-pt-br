@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Encontrei algo para você!"/>
+    <dia npc="0" str="Fala garoto! O que?"/>
+    <dia pl="1" str="Vá para a antiga arena. Há uma alavanca mágica no chão. Se você puxar essa alavanca, uma cópia sua aparecerá e lutará contra você."/>
+    <dia npc="1" str="Eu posso lutar comigo mesmo? Claro! O oponente mais digno sou eu. Obrigado garoto! Você pode ter salvado a vida de um velho lutador!"/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

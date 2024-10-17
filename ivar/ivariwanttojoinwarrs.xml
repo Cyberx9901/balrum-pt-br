@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como estão as coisas?"/>
+    <dia npc="0" str="Vamos manter nossas vozes baixas. É você quem conhece a guilda dos guerreiros?"/>
+    <dia pl="1_0" str="Como você sabe disso?" jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Guilda dos Guerreiros? Eles se separaram há muito tempo, certo?"/>
+    <dia npc="1" str="Eu cometi um erro. Você não é quem eu estou procurando. Com licença."/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Eu vejo muitas coisas, você sabe. Eu mantenho meus olhos bem abertos."/>
+    <dia pl="3" str="Sim, falei com eles. Por que você pergunta?"/>
+    <dia npc="3" str="Eu quero me juntar a eles. Você pode me apresentar a eles? Acho que se alguém que os conhece me apresentar, tenho mais chances de ser aceito."/>
+	<dia pl="4" str="Claro. Me siga." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

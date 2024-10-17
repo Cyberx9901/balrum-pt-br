@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Podemos conversar agora?"/>
+    <dia npc="0" str="Felizmente para você, nenhum deles foi ferido. Você não pode falar sobre isso com ninguém. Eles são apenas crianças e estão seguros lá embaixo. Quem é você?"/>
+    <dia pl="1" str="Preciso encontrar os restos mortais dos necromantes de Darkwood."/>
+    <dia npc="1" str="Uma missão interessante. Max me disse que você foi gentil com eles. Você conseguiu encontrar as crianças; você pode ser exatamente o tipo que procuramos."/>
+    <dia pl="2" str="Apenas o tipo? O que você está dizendo?"/>
+    <dia npc="2" str="Direi mais se puder confiar em você. Faça-me um favor. Os tolos rebeldes ficam longe da igreja da capital por algum motivo. Eles não saquearam. Eu sei que há um ornamento valioso naquela igreja. Se você puder trazê-lo para mim, saberei que você é confiável."/>
+	<dia pl="3_0" str="Quem você pensa que eu sou? Um ladrão de baixa renda? Não vou roubar da igreja!"/>
+	<dia pl="3_1" str="Se eu fizer isso, você me ajudará em minha missão?" jumpNPCd= "4" jumpPlayerd = '5'/>
+    <dia npc="3" str="Multar. Eu cometi um erro. Você não é nosso tipo de pessoa."/>
+    <dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="4" str="Não sejamos precipitados. Se você fizer isso, considerarei ajudá-lo."/>
+    <dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

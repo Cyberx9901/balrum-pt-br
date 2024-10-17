@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Preciso falar com seu líder."/>
+    <dia npc="0" str="Você não é um de nós. Quem é você?"/>
+    <dia pl="1" str="Eu sou da outra aldeia."/>
+    <dia npc="1" str="Outro infiel da matilha de Arlo. O que você quer com Kyler?"/>
+    <dia pl="2" str="Algo horrível está acontecendo em nossa aldeia. Wilson, o capanga de Arlo, me disse que Kyler deveria ser capaz de lançar alguma luz sobre as coisas que aconteceram. Vidas inocentes estão em perigo."/>
+    <dia npc="2" str="Eu ouço você, garoto, e acredito em você. Tentar ajudar os outros é sempre uma coisa nobre. Mas não posso deixá-lo passar até ter certeza de que você é confiável."/>
+    <dia pl="3" str="Como posso provar a você que sou confiável?"/>
+    <dia npc="3" str="Bem. Outro dia, quando estava de folga, fui explorar a antiga vila. Achei que poderia encontrar algo de valor. Em vez de encontrar algo que pudesse vender por um bom preço, perdi meu anel de família. Eu estava quase no meio das ruínas quando aranhas gigantes me atacaram. Havia muitos deles, mas eu lutei contra alguns deles e consegui escapar. Só quando já era tarde é que percebi que havia perdido meu anel. Ainda deve estar lá em algum lugar. Esse anel está na minha família há muitas gerações. Passado de pai para filho. Não é um anel valioso, mas para mim é muito importante. Minha mão fica estranhamente fria sem ele. Ninguém vai me ajudar a recuperá-lo. Talvez você possa encontrá-lo? Se você me trouxer meu anel de volta, eu deixo você entrar!"/>
+    <dia pl="4" str="Não temos tempo para isso!"/>
+    <dia npc="4" str="Tudo bem, se você não me ajudar, eu também não posso ajudá-lo."/>
+    <dia pl="5" str="Você não me deixa escolha. Vou tentar encontrar seu anel. Mas se esse desvio custar a vida das pessoas, a culpa é sua."/>
+    <dia npc="5" str="Então você precisa se apressar. Marquei seu mapa!"/>
+	<dia pl="6" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Quem é você?"/>
+    <dia npc="0" str="Como você passou pelas minhas armadilhas?"/>
+    <dia pl="1" str="Não foi tão difícil. O sangue e os ossos revelaram as armadilhas. Quanto aos outros, bastava olhar bem de perto onde não pisar."/>
+    <dia npc="1" str="Finalmente alguém com cérebro. Bem, pensando bem, isso significa simplesmente que você tem mais inteligência do que os animais selvagens que chegaram perto da minha casa. Meu nome é Miller. O que você quer?"/>
+    <dia pl="2" str="Por que você tem todas aquelas estátuas fora de sua casa?"/>
+    <dia npc="2" str="Para se divertir. Eu os roubei por diversão. Adoro pregar peças na vila maluca."/>
+    <dia pl="3" str="Vila maluca?"/>
+    <dia npc="3" str="A aldeia no extremo leste. Eles são tolos religiosos. Eles acham que os deuses sempre nos ajudarão e orar a eles é a melhor coisa que podemos fazer enquanto estamos vivos. Tolos, se você me perguntar. Eles esqueceram por que estamos morando neste lugar?"/>
+     <dia pl="4" str="Por que você tem problemas com pessoas que têm fé?"/>
+     <dia npc="4" str="Porque onde a religião é forte tem que haver alguém que pregue. E geralmente o homem ou mulher que prega é imensamente rico. No meu tipo de trabalho gostamos de gente rica."/>
+     <dia pl="5" str="Então você é um ladrão?"/>
+     <dia npc="5" str="Veja, eu sabia que você pode usar seu cérebro. Sim, sou um ladrão."/>
+     <dia pl="6" str="Você pode me ensinar alguma coisa?"/>
+     <dia npc="6" str="Eu poderia te ensinar como criar arrombamentos. Se você me fizer um favor. Você conhece aquele imbecil do Rhys? Ele diz a todos que é um grande ladrão, mas na verdade ele não conseguia nem roubar doces de uma criança. A única razão pela qual ele é mais interessante do que uma simples vaca é por causa de seus pais. Seus pais eram verdadeiras lendas entre os ladrões."/>
+     <dia pl="7" str="Eu o conheço. Ele mora em nossa aldeia. Tenho suspeitado dele, já que ele nunca trabalhou um dia na vida."/> 
+     <dia npc="7" str="Ele tem um livro do qual se gaba. O livro supostamente foi escrito por um grande ladrão com muitos truques úteis. Roube aquele livro dele e traga-o de volta para mim. Se você fizer isso eu vou te ensinar."/> 
+      <dia pl="8" str="Onde está este livro?"/>
+      <dia npc="9" str="Ele o guarda em algum lugar de sua casa. Não deveria ser tão difícil localizá-lo."/>
+      <dia pl="9" str="Vou trazer esse livro para você." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aqui está um pouco de comida para as crianças."/>
+    <dia npc="0" str="Obrigado, gentil senhor. Se você puder, traga mais. Não quero parecer ingrato, mas temo que precisaremos de mais e mais com o passar do tempo."/>
+	<dia pl="1" str="Eu retornarei." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

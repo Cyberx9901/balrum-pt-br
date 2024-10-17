@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como estão as coisas?"/>
+    <dia npc="0" str="Esses golens. Eles tornam nossa vida uma miséria."/>
+    <dia pl="1" str="Por que?"/>
+    <dia npc="1" str="Seus números estão aumentando a cada dia. Os meus homens têm tentado combatê-los, mas talvez tenhamos de fechar a mina porque a situação está a tornar-se impossível. Eles estão vindo de todas as direções. Temo que tenhamos encontrado a caverna subterrânea deles e os irritado. Eu não sei o que fazer."/>
+    <dia pl="2" str="Você deveria pedir ajuda."/>
+    <dia npc="2" str="Muitos anos atrás, os magos nos ajudaram com os golems. Um deles precisava de sua essência. O mago que estava fazendo experiências com os golens usou feitiços poderosos contra as feras. Pelo menos foi isso que me disseram."/>
+    <dia pl="3" str="Eles precisavam de sua essência?"/>
+    <dia npc="3" str="Todos os golens realmente poderosos possuem essências de pedra dentro deles. O mago estava tentando controlá-los de alguma forma."/>
+    <dia pl="4" str="Como você lutou contra os golems quando os magos não estavam lá para ajudar?"/>
+    <dia npc="4" str="Meu pai me contou histórias sobre um grupo de mineiros cujo trabalho era derrotar essas feras. Eles são apenas uma lenda agora."/>
+    <dia pl="5" str="Onde posso encontrar um golem realmente poderoso?"/>
+    <dia npc="5" str="Não seja imprudente, garoto! Essas criaturas são perigosas! Você pode vasculhar as minas aqui, mas se tentar encontrar uma, estará se colocando em grande perigo. Aqui pegue esta espada. Você não tem chance contra eles sem isso."/>
+    <dia pl="6" str="Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

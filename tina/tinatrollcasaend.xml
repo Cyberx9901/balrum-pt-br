@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="As meninas encontraram o homem perfeito. Um troll."/>
+    <dia npc="0" str="O que? O que você está falando?"/>
+    <dia pl="1" str="Eles encontraram um troll amigável na floresta e estão hospedados lá com ele. Disseram-me que têm tudo o que precisam e não há nada com que se preocupar."/>
+    <dia npc="1" str="Minha palavra. Eles eram ainda piores do que eu pensava. Nojento! A palavrão! Eu não quero ouvir mais. Obrigado por descobrir a verdade."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

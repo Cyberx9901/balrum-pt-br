@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Prazer em conhecê-lo."/>
+    <dia npc="0" str="Parece que tenho que aumentar novamente o número de armadilhas pela casa. O que você quer?"/>
+    <dia pl="1" str="Por que você está morando aqui sozinho?"/>
+    <dia npc="1" str="Como você sabe que estou sozinho?"/>
+    <dia pl="2" str="Não sei."/>
+    <dia npc="2" str="Exatamente, você não sabe. Para sua informação, não estou sozinho aqui. Eu e meu marido moramos aqui juntos. Longe da sujeira da cidade."/>
+	<dia pl="3" str="Já estive na cidade e não é tão ruim lá."/>
+    <dia npc="3" str="Bom para você. Deixe-me perguntar novamente. O que você quer?"/>
+    <dia pl="4" str="Estou procurando trabalho e também, você pode me dizer para onde vai o caminho?"/>
+    <dia npc="4" str="Para o deserto. É uma terra dura e implacável. À primeira vista parece um lindo oásis, mas à medida que você se aprofunda não encontrará nada além de areia. Não tenho ideia de por que alguém escolheria morar lá."/>
+    <dia pl="5" str="Quem mora lá?"/>
+    <dia npc="5" str="Orran. O velho marinheiro não era a ferramenta mais afiada do galpão. Ele decidiu fugir da cidade quando os rebeldes assumiram o controle. Não creio que ele ainda esteja vivo. Você disse que está procurando trabalho. Tenho algo para você, se você estiver interessado?"/>
+	<dia pl="6" str="Eu poderia visitar este Orran. Espero que ele não esteja morto. Em que posso ajudá-lo?"/>
+    <dia npc="6" str="Eu adoraria ter algumas flameberries! Engraçado que acabamos de falar sobre o deserto porque você só pode encontrá-los lá. Traga-me cinco amoras flamejantes. Posso pagar um pouco pelos seus problemas."/>
+    <dia pl="7_0" str="Voltarei com as frutas." jumpNPCd= "0" jumpPlayerd = '0'/>
+	<dia pl="7_1" str="Não vou ao deserto comprar algumas frutas." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

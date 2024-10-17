@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Não consegui encontrar Murray. Procurei em todos os lugares."/>
+    <dia npc="0" str="Essa maldita coisa. Terei que encontrar outro servo, então. Você daria uma boa, jovem. Mas tenho a sensação de que algum dia você poderá me ajudar novamente e, como já lhe disse, meus métodos ainda não estão aperfeiçoados. Se ao menos eu pudesse falar com o Arquiteto. Ele poderia responder a muitas das minhas perguntas."/>
+    <dia pl="1" str="Quem é esse Arquiteto?"/>
+    <dia npc="1" str="Foi ideia dele construir a cidade subterrânea há milhares de anos. Ele controlou dezenas de golens de pedra gigantes para ajudá-lo na escavação e construção. As lendas dizem que ele foi um grande necromante. De alguma forma, ele conseguiu ser o consultor do rei. Acho que ele projetou a cidade subterrânea apenas por seus próprios motivos malignos. Ele era um necromante verdadeiramente grande. Agora! Não tenho tempo para falar sobre lendas. Deixar."/>
+	<dia pl="2" str="Fim" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

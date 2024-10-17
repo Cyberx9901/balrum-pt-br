@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que é esse lugar?"/>
+    <dia npc="0" str="Quem deixou você entrar? Você é amigo ou inimigo? Fale rápido!"/>
+    <dia pl="1" str="Não sou nenhum dos dois, mas posso dizer que não estou com os rebeldes."/>
+    <dia npc="1" str="Dizer-me que você não está com os rebeldes significa que provavelmente está com os rebeldes."/>
+    <dia pl="2" str="Como posso provar meu valor?"/>
+    <dia npc="2" str="Você vê o que está acontecendo aqui embaixo. Homens ricos vêm aqui e jogam. Esta é a única diversão que eles podem ter e que os rebeldes desconhecem. Dê uma quantia decente de dinheiro para eles. Você parece um sujeito que pode dispensar um pouco. Então acreditarei na sua história."/>
+    <dia pl="3" str="Quanto?"/>
+    <dia npc="3" str="Mil táleres bastarão."/>
+	<dia pl="4" str="Eu tenho que pensar sobre isso." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

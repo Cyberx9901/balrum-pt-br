@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você é o dono desta grande fazenda?"/>
+    <dia npc="0" str="Sim eu sou. O que o traz aqui, jovem?"/>
+    <dia pl="1" str="Estou procurando trabalho."/>
+    <dia npc="1" str="Bem, você veio ao lugar certo, garoto! Tenho um trabalho para você. Ultimamente meus porcos não estão com disposição, se você entende o que estou dizendo. Se isto continuar não haverá carne suficiente para o povo. Acho que a única maneira é introduzir porcos de outra fazenda."/>
+    <dia pl="2" str="Você precisa que eu traga novos porcos para sua fazenda?"/>
+    <dia npc="2" str="Exatamente! Se você me trouxer dez porcos, eu lhe pagarei generosamente."/>
+	<dia pl="3" str="Vou ver o que posso fazer."/>
+    <dia npc="3" str="Você faria muito pela cidade. Espero que você tenha sucesso."/>
+	<dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

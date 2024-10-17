@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você parece chateado."/>
+    <dia npc="0" str="Não se aproxime!"/>
+    <dia pl="1" str="Calma, não vou te machucar."/>
+    <dia npc="1" str="Dois dos meus queridos amigos estão desaparecidos e não te vi por aí. Quem é você?"/>
+    <dia pl="2" str="Sou um simples viajante. Você não precisa ter medo de mim. Vim para a cidade em busca de trabalho."/>
+    <dia npc="2" str="Tenho trabalho para você. Encontre meus amigos!"/>
+    <dia pl="3" str="Não tão rápido. Conte-me tudo o que aconteceu."/>
+    <dia npc="3" str="Eles se chamam Zelma e Patty. Ambos moram aqui nas casas dos plebeus. As casas de ambas ficam bem ao lado da minha. Zelma desapareceu há semanas. Patty desapareceu ontem. Temo pelo pior. Quem os sequestraria?"/>
+    <dia pl="4" str="Eu não sei o que aconteceu."/>
+    <dia npc="4" str="Zelma me contou sobre um homem que ela estava visitando. Ela e Patty conversavam muito sobre ele. Cada vez que eu os via sussurrando, suas bochechas ficavam vermelhas. Tem algo a ver com aquele homem."/>
+    <dia pl="5" str="Você sabe mais alguma coisa? Você viu o homem?"/>
+    <dia npc="5" str="Houve algumas vezes em que vi Zelma entrando furtivamente na floresta. Pouco antes de Zelma desaparecer, acho que vi os dois entrando juntos na floresta."/>
+    <dia pl="6" str="Você pode me dizer a direção que eles foram?"/>
+    <dia npc="6" str="Para o sul. Zelma é uma jovem imprudente. Ela estava trabalhando para Sabrina. Ela tentou atrair Patty para trabalhar para Sabrina também. Acho que Zelma conheceu aquele homem no bordel. Isso é tudo que sei."/>
+    <dia pl="7" str="Vou tentar encontrá-los."/>
+    <dia npc="7" str="Obrigado estranho. É bom ver que pessoas de coração verdadeiro ainda podem ser encontradas neste nosso mundo corrompido."/>
+	<dia pl="8" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

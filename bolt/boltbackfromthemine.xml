@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+ 	<dia pl="0" str="Encontrei o que sobrou do seu homem. Ele está morto. A caverna está repleta de monstros. Ele não conseguiu localizar os ladrões, mas escreveu uma nota sobre os sons que ouvia vindos das paredes da caverna."/>
+    <dia npc="0" str="Um dia triste. Honraremos sua morte esta noite. Acho que posso lhe dizer qual era a missão dele. Ele procurava uma passagem subterrânea que ligasse a capital aos estabelecimentos vizinhos. Procuramos um bando de ladrões que saqueou os celeiros dos agricultores locais. E, se conseguirmos encontrar essa passagem, poderemos ter um caminho secreto para a capital. Você quer se tornar um membro. Assuma sua missão. Honre sua morte localizando os ladrões. Se você fizer isso, consideraremos sua aceitação. Então ele estava ouvindo sons estranhos vindos das paredes? Interessante! Pegue este barril. Está cheio de material explosivo. Tente demolir as paredes das cavernas."/>
+	<dia pl="1" str="Eu terminarei sua missão." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

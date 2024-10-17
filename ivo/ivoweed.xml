@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Trouxe ingredientes para você, Ivo. É algum tipo de planta."/>
+    <dia npc="0" str="'Ivo cheira e prova cuidadosamente cada ingrediente que ele acha que pode ser interessante. Ele fecha os olhos e respira profundamente. Acho que temos algo aqui, meu jovem. Esta planta seca é extraordinária. Certamente vou tentar. Onde você encontrou isso?"/>
+    <dia pl="1" str="Não me lembro, mas em algum lugar por aqui."/>
+    <dia npc="1" str="Obrigado pela ajuda. Aqui, pegue uma garrafa da minha bebida mais antiga. Você mereceu. E deixe-me contar um segredo do meu ofício. O segredo é envelhecer a aguardente nesses barris especiais que você vê por aqui. E o maior segredo é que aquele que dou aos rebeldes só envelhece algumas semanas. Os malditos idiotas não são sofisticados o suficiente para sentir a diferença. Tenho que adicionar um pouco de cor ao produto porque para obter esta maravilhosa cor vermelho escuro é preciso envelhecer o espírito durante anos. Um dia tentarei dar-lhes um sem adição de cor. Eles podem ser estúpidos o suficiente para não perceber."/>
+	<dia pl="2" str="Se cuida, Ivo." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

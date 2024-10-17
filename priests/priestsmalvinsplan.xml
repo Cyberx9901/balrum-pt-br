@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Posso falar com você, pai?"/>
+    <dia npc="0" str="Claro, filho. O que incomoda sua alma?"/>
+    <dia pl="1_0" str="Padre Malvin sabe das meninas que você traz para a reitoria." jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Tenho que confessar, pai. Já estive no bordel mais de uma vez e ouvi rumores de crianças recém-nascidas. Um pode ser meu? O que devo fazer, pai?"/>
+    <dia npc="1" str="'Os olhos do homem estão bem abertos e permanecem sem piscar por muitos segundos'. Se alguém se encontra numa situação como esta, deve fazer a coisa honrosa e criar a criança."/>
+    <dia pl="2" str="Obrigado, pai. Eu farei o que for preciso." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="O pai sabe? O que fizemos? Nossas necessidades animais tomaram conta de nossas mentes. Diga ao pai que vamos acabar com isso de uma vez por todas."/>
+	<dia pl="3" str="Eu vou." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

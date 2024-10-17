@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que você está fazendo aqui?"/>
+    <dia npc="0" str="Não me diga que você precisa de mais. Eu simplesmente não consigo fazer o suficiente para você. Você tem que esperar."/>
+    <dia pl="1" str="Não estou aqui para nada. Estou apenas procurando trabalho."/>
+    <dia npc="1" str="Então você não é um deles. Os rebeldes levam embora todas as minhas garrafas. Às vezes até levam barris inteiros do meu bom e velho espírito. Você está procurando trabalho, você diz. Tudo bem, tenho algo para você."/>
+    <dia pl="2" str="Eu não sou um deles. O que você precisa?"/>
+    <dia npc="2" str="Estou procurando algo novo. Um novo sabor para minha nova criação. Venho fazendo o mesmo espírito há décadas, agora é hora de um novo. Traga-me todos os tipos de ingredientes. Vou examiná-los, prová-los e decidir o que usar."/>
+	<dia pl="3" str="Tudo bem. Voltarei com alguns ingredientes." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

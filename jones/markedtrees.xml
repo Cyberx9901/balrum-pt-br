@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou procurando trabalho, Jones. Você precisa de ajuda com alguma coisa?"/>
+    <dia npc="0" str="Preciso preparar lenha para o inverno. Queria marcar algumas árvores que gostaria de derrubar hoje. Se você está realmente procurando trabalho, não procure mais! Cortar árvores e trazê-las para casa é um trabalho muito difícil. Isso o tornará forte, pelo menos. Posso lhe dar alguns táleres se você me trouxer dez pedaços de pinho."/>
+    <dia pl="1" str="Onde posso encontrar pinheiros?"/>
+	<dia npc="1" str="Você encontrará um monte ao sul daqui. Você não sentirá falta deles."/>
+	<dia pl="2" str="Vou trazer-lhe a madeira Jones."/>
+	<dia npc="2" str="Obrigado. Certifique-se de trazer bastante água com você. O trabalho duro secará seu corpo rapidamente. E pode ser uma boa ideia levar alguns alimentos também."/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

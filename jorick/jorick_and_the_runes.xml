@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Nome!"/>
+    <dia npc="0" str="Como você sabe esse nome?"/>
+    <dia pl="1" str="Kyler me disse que se eu lhe disser esse nome, você me ouvirá."/>
+    <dia npc="1" str="Kyler, aquele velho bastardo. Ele estava certo. Agora me diga, o que você quer?"/>
+    <dia pl="2" str="Você sabe onde fica a entrada da cidade subterrânea?"/>
+    <dia npc="2" str="Por que um garoto como você iria querer ir até lá? E o mais importante, como você sabe sobre esse lugar?"/>
+    <dia pl="3" str="Não tenho tempo para te contar tudo. Tudo o que você precisa saber agora é que a floresta não é mais segura. Eu tenho que entrar na cidade!"/>
+    <dia npc="3" str="Poucos sabem onde fica a entrada da cidade antiga. E há uma boa razão pela qual apenas algumas pessoas sabem. Há muito tempo atrás, as pessoas usavam a cidade como proteção contra a ira ardente do Deus Louco. Muitos anos depois, o Rei Triston descobriu que velhos bruxos estavam usando a cidade para esconder seus rituais sombrios. Não vou lhe contar nada até que você me conte o que está acontecendo."/>
+    <dia pl="4" str="As pessoas da minha aldeia estão desaparecendo. Casas foram incendiadas. Eu sei que de alguma forma o nosso líder Arlo tem algo a ver com tudo o que aconteceu."/>
+    <dia npc="4" str="Deuses nos ajudem! Eu sabia que não deveríamos ter confiado nossas vidas a Arlo. Fiquei de olho nele desde que nossas aldeias decidiram fugir para a floresta. Vi Arlo entrar nas ruínas muitas vezes. Mas isso foi há quase 20 anos."/>
+    <dia pl="5" str="Você precisa me dizer onde fica a entrada. Os necromantes que viveram aqui há séculos têm algo a ver com as coisas horríveis que aconteceram."/>
+    <dia npc="5" str="Os necromantes? Sua espécie foi massacrada há muito tempo. O Rei Triston não deixou ninguém vivo quando seus exércitos marcharam para Darkwood. Se, de alguma forma, alguns deles ainda estiverem vivos, não creio que mesmo as duas aldeias juntas possam enfrentá-los. Você está sem sorte. A entrada está selada com magia poderosa. A única maneira de entrar é se você tiver três runas. Essas runas agem como chaves."/>
+    <dia pl="6" str="Onde posso encontrar essas runas? E se eu os encontrar, o que faço com eles?"/>
+    <dia npc="6" str="Arlo tinha todos eles. Não tenho ideia de como ele os conseguiu, mas ele os pegou bem. E ele espalhou as runas por Darkwood depois de entrar na cidade velha pela última vez. Ele fez um grande esforço para garantir que as runas não fossem vistas juntas novamente. Ele escondeu uma das runas no grande e antigo cemitério ao nordeste. Não tenho certeza sobre o segundo, mas acho que ele o escondeu na caverna dos golens de cristal. Ele jogou a terceira runa no troll da floresta a nordeste daqui, perto da casa de Spike. Se você conseguir recuperar todas as três runas, tudo o que você precisa fazer é ficar no meio do chamado portal de invocação ao norte da minha casa, aqui. As pessoas não sabem que é um dispositivo de teletransporte para nossos ancestrais entrarem na cidade subterrânea. Eles acham que espíritos malignos podem ser convocados para lá."/> 
+	<dia pl="7" str="Obrigado Jorick. Vou encontrar todas as três runas. Espero encontrar respostas na cidade velha." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

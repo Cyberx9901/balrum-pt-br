@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Olhe para este livro, Harry."/>
+   <dia npc="0" str="'Harry olha para o livro que você encontrou e imediatamente o deixa cair no chão.' Este livro é maligno! Acho que pode ser um livro de teletransporte."/>
+   <dia pl="1" str="Um livro de teletransporte?"/>
+   <dia npc="1" str="Este é um livro que, ao ser lido, teletransportará quem o segura para um lugar desconhecido."/>
+   <dia pl="2" str="Como você sabe disso?"/>
+   <dia npc="2" str="Porque eu vi um livro como este uma vez. Antes de entrarmos em Darkwood, meu querido amigo Otello encontrou um livro de teletransporte. E ele leu. A culpa foi minha. Eu disse a ele para ler. Não o vejo desde aquele dia. Os livros podem ser perigosos às vezes. Principalmente livros que você encontra aqui em Darkwood. Não leia em hipótese alguma, rapaz!"/>
+   <dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que você está fazendo aqui?"/>
+    <dia npc="0" str="Meu nome é Pell. Estou de guarda."/>
+    <dia pl="1" str="Deve ser muito chato."/>
+    <dia npc="1" str="É a coisa mais chata de todas. Nada acontecerá desta forma. Os guerreiros do rei se dispersaram e os outros reinos estão distantes, além dos mares. Quem atacaria a cidade? Ninguém, eu lhe digo. Mesmo assim, tenho que ficar aqui e olhar para as árvores."/>
+    <dia pl="2" str="Essa é a vida de um guarda."/>
+    <dia npc="2" str="Uma vida tão boa."/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

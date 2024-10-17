@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu lidei com o problema."/>
+    <dia npc="0" str="Ainda posso sentir o cheiro, mas está ficando mais fraco. Obrigado por isso, garoto. Você pode acreditar? Tive que suportar isso por semanas."/>
+	<dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

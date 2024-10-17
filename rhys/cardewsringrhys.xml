@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Cardew acha que você roubou o anel azul dele."/>
+    <dia npc="0" str="Cardew é um lunático. Não tenho nada a ver com ele e nada a ver com nenhum anel."/>
+    <dia pl="1" str="Ele me disse que você roubou o anel dele. Por que Cardew mentiria? Acho que ele nem consegue mentir, Rhys."/>
+    <dia npc="1" str="Eu sou um tolo. Fui pego pelo idiota da aldeia. Que piada, certo?"/>
+    <dia pl="2" str="Então você admite que roubou?"/>
+    <dia npc="2" str="Eu admito, eu admito. Multar. De qualquer maneira, não vale nada. Aqui, pegue."/>
+    <dia pl="3" str="Por que você roubou dele?"/>
+    <dia npc="3" str="O pobre idiota me disse que tem poderes mágicos. Eu estava entediado e queria dar uma olhada. Primeiro perguntei, mas ele não quis me mostrar. Perguntei novamente, mas ele recusou. Então, quando ele saiu de casa, eu entrei furtivamente. Não achei que ele voltaria imediatamente e me veria, mas ele o fez."/>
+    <dia pl="4" str="Mas por que você o guardou?"/>
+    <dia npc="4" str="Todo mundo sabe. Acho que seu avô não lhe contou. Antigamente eu era um ladrão bastante famoso. Eu gosto de roubar coisas. Está em minhas veias. Minha mãe e meu pai também eram ladrões. Ladrões orgulhosos que roubaram dos bastardos ricos e gordos."/>
+    <dia pl="5" str="Você é um ladrão?"/>
+    <dia npc="5" str="Acabei de te contar."/>
+    <dia pl="6" str="Certo. Obrigado por devolver o anel."/>
+    <dia npc="6" str="Não vale nada."/>
+    <dia pl="7" str="Você pode me ensinar algumas coisas?"/>
+    <dia npc="7" str="Ah, então você quer minha ajuda agora, não é? O que isso traz para mim?"/>
+    <dia pl="8" str="O que você quer?"/>
+    <dia npc="8" str="Estou fazendo uma nova ferramenta para mim e preciso de uma madeira de pinho perfeita para ela. Traga-me quatro pedaços de madeira de pinho perfeitos e posso pensar em lhe ensinar uma ou duas coisas. A madeira de pinho perfeita é rara, então pode ser necessário derrubar alguns pinheiros."/>
+    <dia pl="9" str="Qual ferramenta?"/>
+    <dia npc="9" str="Nenhum de seus negócios. Você vai me ajudar ou não?"/>
+	<dia pl="10" str="Tudo bem. Trarei a madeira que você precisa." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

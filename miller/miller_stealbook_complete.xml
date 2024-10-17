@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Este é o livro?"/>
+    <dia npc="0" str="Bem, jogue-me na masmorra mais profunda. Este é o livro! Veja, não foi tão difícil roubar daquele garoto. Você é melhor do que eu pensava. Um dia você poderá ser um ladrão decente, mas não se apresse – esse dia está longe."/>
+    <dia pl="1" str="Então você vai me ensinar agora?"/>
+    <dia npc="1" str="Aqui está sua primeira lição. Um verdadeiro ladrão sempre cumpre sua promessa."/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

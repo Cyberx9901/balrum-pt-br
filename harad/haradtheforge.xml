@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que você está fazendo aqui?"/>
+    <dia npc="0" str="Não muito, meu jovem. Desde que meu mestre partiu, esta forja aqui não está sendo usada."/>
+    <dia pl="1" str="Onde está seu mestre?"/>
+    <dia npc="1" str="Os rebeldes exigiram demais. Ele deixou o reino há muito tempo. Eu mantenho este lugar limpo e às vezes até tento fazer alguma coisa. Justamente quando comecei a aprender a arte da ferraria os rebeldes invadiram a cidade."/>
+	<dia pl="2" str="É triste ouvir isso. Tomar cuidado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Isto é uma escola?"/>
+    <dia npc="0" str="Isso é. Você deve ter uma mente muito perspicaz."/>
+    <dia pl="1" str="Não há necessidade de ser hostil. Estou procurando trabalho."/>
+    <dia npc="1" str="Não posso lhe oferecer nada em troca. A escola mal acompanha. Os rebeldes não se importam com a educação. Felizmente, alguns deles nos ajudam aqui e ali."/>
+    <dia pl="2_0" str="Você está desperdiçando meu tempo." jumpNPCd= "4" jumpPlayerd = '5'/>
+    <dia pl="2_1" str="Eu não preciso de pagamento. O que você precisa?"/>
+    <dia npc="2" str="Precisamos de mais livros. Durante o cerco, as pessoas pegaram a maior parte dos nossos livros e os queimaram porque a madeira estava acabando porque os rebeldes cercaram a cidade. Se você encontrar livros adequados para crianças, por favor, entregue-os para mim."/>
+	<dia pl="3" str="Vou ficar de olho."/>
+    <dia npc="3" str="Obrigado, estranho. Você não é tão ruim quanto eu pensava."/>
+	<dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+	<dia npc="4" str="Saia daqui."/>
+    <dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

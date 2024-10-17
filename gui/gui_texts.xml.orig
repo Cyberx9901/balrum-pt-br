@@ -1,0 +1,573 @@
+1.0
+New Game
+Load
+Exit
+Delete
+Continue
+Click for Basic Info
+Paused
+Save 'Quick Save'
+Load 'Quick Save'
+Load 'Autosave'
+Empty
+Style
+Log Book Transparency
+Transparency
+Pet Follow Distance
+Tile
+ Size
+Double Click Delay
+Double Keystroke Delay
+ms
+Hz
+Resolution
+Master's items
+Hour
+Day
+Thaler
+Remove
+Next Page
+Previous Page
+Buy
+Sell
+Buy: 
+Sell: 
+Trader's money: 
+After Trade
+Value: 
+Amount: 
+Level 
+Me
+Treasure X
+F
+P
+W
+A
+S
+M
+Q
+This plant is too young to harvest!
+Manure
+Water
+Harvest
+Cure
+End of Chapter One! Thank you for playing the Early Access version of Balrum!
+Experience
+Manure and Water
+Continue the last saved game. (Autosaves won't be continued)
+Can be created at an Anvil.
+Can be created at a Cauldron.
+Can be created at an Alchemy Table.
+Drag an ability icon from your spellbook or any kind of item into this slot for quick access.
+Start Over
+I was only a child when we fled the kingdom and took refuge in Darkwood. A lot has happened in the past twenty years while we have been living here. Everyone has a part in the life of the village. We have become a real community. Now that I have grown up it's time for me to decide what part I will play.
+People say that the woods protect us from the filthy world that Balrum has become. They forget that the place we live in once was a place of horrors. The dark history of the forest keeps trouble outside. The stories about why we had to hide in the woods each seem different. I don't know who to believe. Every time I ask Grandpa about the past he changes the subject. One thing is for sure. Something horrible happened. Maybe one day I will know the truth.
+I know that Grandpa was an apprentice of a wizard when he was younger but he rarely uses magic nowadays. He often tells me that I should practice magic and embrace my supposed abilities, but I'm not sure that I want to. I have been taking lessons in alchemy and the arcane from Brown and Leonard.
+In my free time I usually
+and often times I practice 
+I try and help everywhere I can but I'm more eager to help out
+because the work they do interests me. Life was much easier when I was younger. Now my head is filled with questions and doubt.
+Your starting abilities:
+Choose extra starting supply:
+Starting Skills:
+You can only join one guild! Are you sure you want to start to join the mages' guild?
+You can only join one guild! Are you sure you want to start to join the warriors' guild?
+You can only join one guild! Are you sure you want to start to join the thieves' guild?
+Novice
+Rookie
+Initiate
+Wizard
+Swordsman
+Shadow
+help out Ida on her farm
+camp in the woods
+cook with Arda
+archery with Fox.
+spellcasting with Leonard.
+swordplay with Wilson.
+Aron with smelting,
+Brown with potion brewing,
+Fox with hunting,
+Choose one extra item:
+Choose your starting secondary skill!
+Choose your starting main skill!
+Choose an additional secondary skill!
+Spend all your unused attribute points!
+Choose your extra starting supply!
+Choose your extra starting special item!
+Your Health
+Your Mana
+Select Difficulty:
+Novice
+Initiate
+Master
+Choose difficulty!
+No recipes learned. To create a new recipe click on the 'New Recipe' button or learn a recipe at a trainer.
+Left-Click to place a note.
+(Easy Difficulty) Hunger and thirst decreases at a slower rate. Enemies have less health and deal less damage.
+(Normal Difficulty) Hunger and thirst decreases at the normal rate. Enemies have normal health.
+(Hard Difficulty) Hunger and thirst decreases at a faster rate. Enemies will use their abilities smarter and they have increased health and damage. Immunity indicators will be hidden.
+  	
+Combat in Balrum is turn based. To attack an enemy you have to have at least one ability selected in the quickslot bar. To select an ability right click on its icon or press the appropriate number on your keyboard. Selected melee abilities can be used with a left click on the targeted enemy. Selected ranged abilities can be used with a right click on the targeted enemy. To target an enemy simply left click on it and it's health and mana bar will turn silver indicating that it has been targeted. Special combat effects play an important role in the game so always check the effects on you and on your targets. Combat effects affecting you will appear in the top right corner of the screen. Effects affecting your enemies will appear below their health/mana bar.
+You have to place an ability icon from your spellbook into one of your quickslots to be able to use it. Some abilities can be used directly from your spellbook. To place an ability into one of your quickslots simply left click on the ability icon and place it into the desired quickslot.
+  	
+It's raining heavily tonight as we walk back from the hunt with Fox. I have a strange feeling and I can see that Fox is worried too. We separate at the edge of the forest. As I approach our home I smell smoke and can see light shining through the woods. Something bad has happened.
+Ok
+The loaded game is not entirely compatible with the current game version. If the patch contained map adjustments and you already have been on the affected maps, those changes will be only visible to you once you start a new game.
+Health slowly regenerates when fully hydrated or fully fed.
+Mana regenerates over time based on your wisdom attribute.
+  	
+Every item that is combinable with another item will have a green highlight on it in your inventory while the combine panel is active.
+These are your known recipes. Switch between recipe categories by clicking on the arrows at the bottom of this panel. Hovering over a recipe name will inform you about its ingredients and the crafting device it can be made at.
+A green cursor indicates that the object beneath it is interactable. When the cursor turns green while hovering on a chest or barrel it indicates that there is something inside that container.
+Over the years I became familiar with the wildlife. Frogs, rats and some of the large larvae are not aggressive but every other animal will try to eat me. Brown told me to pick up every plant I see so I can experiment with them at the alchemy table. There are a number of berry bushes growing here. Some of the berries have powerful medicinal effects.
+Can be created by Combining.
+  	
+  	
+This is my key
+Type your personal Kickstarter code! If you are not a Kickstarter backer simply press Continue.
+Kickstarter code:
+The world of Balrum would have been forgotten without you! Thank you! (Please enter your Kickstarter Code if you have one. Not every pledge tier received a code.)
+Equip
+Continue Playing
+Special Animal Tamer Ability
+Magical Item in the World
+Are there any problems with the fullscreen mode? Click yes if you experience problems.
+Display refresh rate less than 60Hz! Using a less than 60Hz monitor may cause stuttering!
+Are you prepared for the ritual?
+Auto Save Every X Minutes
+Minutes
+You/Pet
+NPC in the World
+Monster in the World
+This is your journal. You can view your active and completed quests here. Only quests which require specific items will be marked with a check mark when the given items have been acquired.
+Usually there are old letters or documents inside these white bags.
+Jax is your pet. He loyally awaits your every command. When you select a pet ability for him to use, he will use the selected ability during the next turn if all the requirements are met for the given ability. To select Jax left click on him or press U. To access the commands menu right click on Jax or click on the pet button at the lower right of the screen.
+Resume Game
+Load/Save
+Options
+Exit to Main Menu
+Exit
+Load/Save
+Save
+Load
+Delete
+Options
+Controls
+Sound
+Video
+Restore Defaults
+Effects
+Music
+Smoother Framerate
+Fullscreen
+Zoom
+Oldschool Lighting
+Wind
+Apply
+Cancel
+Tactical Grid
+30 FPS Mode
+Icon Slide
+Fog
+Color Blind Mode
+Normal
+Desaturated 1
+Desaturated 2
+Are you sure?
+Yes
+No
+Overwrite file?
+Big Cursor
+Gameplay
+Faster Combat Animations
+Player/Pet Tree Fade
+Always Show Friendly NPC Names
+Always Walk on Double Keystroke
+Show Company Logo
+ 
+ 
+Tiles
+Thin Walls
+Thick Walls
+Furniture
+Misc
+Statues
+Decorations
+Crafting Tables
+Fences
+Doors
+Input
+Misc
+Combat
+Quest
+Foliage
+Trees
+Vitality
+Strength
+Dexterity
+Intellect
+Wisdom
+Repair
+Repair All
+Repair Items
+CAPS PRESSED
+LSHIFT PRESSED
+Put In
+Clear All
+Learn
+Plant
+RSHIFT PRESSED
+Refill
+Stone Walls
+Full
+V-Sync
+Modern Renderer
+Camera Shake
+Enable smoother framerates. (increases CPU usage)
+Locks the framerate to 30 FPS. Check this on old computers or to increase battery life.
+Disable smooth lighting.
+Enable fog effects. May decrease performance on old computers.
+Enable wind and other movement effects on foliage.
+RESTART REQUIRED! Changes the overall color of the game.
+Enable sliding icon animation when new items are acquired.
+Doubles the combat animation speed.
+Enables trees and other foliage to fade when blocking vision.
+Enables the tactical grid. May decrease performance on old computers.
+Raindrop Effects
+World Zoom
+GUI Zoom
+Gamma
+World Sharpen
+GUI Sharpen
+Tactical Grid in Combat
+Show Same Object
+Master
+Pet Walk
+Active Quests
+Close
+Move
+Info
+Foods (Right Click here to Sort)
+Alchemy (Right Click here to Sort)
+Weapons/Tools (Right Click here to Sort)
+Armours/Trinkets (Right Click here to Sort)
+Scrolls/Recipes (Right Click here to Sort)
+Materials (Right Click here to Sort)
+Quests (Right Click here to Sort)
+Create Recipe
+Reset
+Enable raindrop effects on the ground. May decrease performance on old computers.
+Repair cost for selected item:
+Repair cost for all items:
+V-Sync eliminate screen tearing. Occasionally on Linux systems Vsync causes problems.
+Create
+New Recipe
+Combine
+Drop item(s) on the ground?
+Do you want to clear the spell shortcut?
+Start New Game
+Return Main Menu
+You Died
+Password:
+Enter
+Description
+Pet Name
+Unguilded
+Divide
+How much?
+Finish
+Item Name:
+Cooking
+Alchemy
+Other
+Combinable
+Known Recipes
+RESTART REQUIRED! When disabled the legacy renderer will be used. The legacy renderer should increase performance on old computers.
+Manure
+Water
+Tactical Grid Line of Sight
+Constrain Cursor to Window
+Transparent Dungeon Map
+Rest/Hydrate/Fed Panel
+Specials
+Completed Quests
+Falling Leaves
+Enable falling leave effects on trees. May decrease performance on old computers.
+Help
+Pet Health/Mana Panel
+Eye Care (At Night)
+Brick Walls
+Camping
+Visibility
+Menu (ESC)
+Build Tent
+Place Down Torch
+Create Campfire
+(Your torch will go off when the sun is up!)
+Stay/Stop
+Dismiss
+Recall
+Resurrect
+Assist Master (is On)
+Protect Master (is Off)
+Previous QuickSlot Bar
+Catch Some Rain
+Inventory
+Create Splints
+Self Protect (is On)
+Self Protect (is Off)
+In combat with:
+Create Torches
+Rename
+Level:
+XP:
+Guild:
+Visibility:
+Rested:
+Hydrated:
+Fed:
+Learning Points:
+Health:
+Mana:
+Fire:
+Frost:
+Poison:
+Shadow:
+Arcane:
+Melee Hit:
+Melee Crit:
+Dodge:
+Parry:
+Spell Hit:
+Spell Crit:
+Pick Locks
+Create Weapon
+Create Armour
+Carpentry
+Alchemy
+Hunting
+Arcane Arts
+Archery
+Farming
+Survival
+Cooking
+Trapping
+Mining/Smelting
+Swordplay
+Potions Drank:
+    
+By possessing this skill you have a small chance of opening a lock without having to try a combination.
+This chance increases with each level of the skill.
+At level 2 you will be able to learn how to create a sturdy lock pick from a trainer.
+Each level will decrease the combination needed to open locked chest/doors.
+    
+Create Weapon allows you to create your custom weapons at an anvil. With each level you will be able to use more crafting slots while creating weapons.
+With each level you will be able to create weapons which give more attributes and deal more damage. You might find schematics that require a certain level of this skill. At level 2 you will be able to build a Repair Statue at your Safeplace.
+    
+Create Armour allows you to create your custom armours at an anvil. With each level you will be able to use more crafting slots while creating armour.
+With each level you will be able to create armour which gives more attributes and has higher base armour. You might find schematics that require a certain level of this skill. At level 2 you will be able to build a Repair Statue at your Safeplace.
+  
+Each level will enable you to build new basic structures at your Safeplace. You might find schematics which require a certain level of this skill. You can learn how to build more special structures from teachers. (You can only build at a Safeplace.)
+At level 2 you will be able to learn how to create durable tools from a trainer.
+Chopping down trees will be less stressful on your body with each level.
+    
+Alchemy allows you to create your own potions at an alchemy table. With each level you will be able to use more crafting slots while creating potions.
+With each level you will be able to use new plants and create potions which give more attributes.
+    
+At level 1 you are able to tame a rat or a wolf.
+At level 2 you are able to tame a bear or a deer.
+At level 3 you are able to tame a mantis, spider or a crab.
+    
+Arcane Arts allows you to learn spells from a trainer. Each level will decrease the chance of a critical spell failure.
+At level 2 of this skill you have a slight chance to cast spells with no mana usage resulting in a perfect cast. (Arcane Arts is a class skill. You can only learn two class skills.)
+    
+Archery allows you to learn special ranged abilities from a trainer. At level 2 you are able to create poison arrows. 
+At level 3 you are able to create fire arrows. 
+With each level of this skill your chance of hitting and critically hitting with a bow increases and the damage bonus from your dexterity while using a bow also increases. Each level will decrease the chance of a critical miss. (Archery is a class skill. You can only learn two class skills.)
+    
+With each level of this skill you are able to plot more fields to plant on. 
+At level 1 you are able to build pig and chicken pens.
+At level 2 you are able to build spider pens.
+    
+Each level of this skill will increase the amount of health you can recover when tending your wounds in a tent and decreases the chance of a bone fracture. Each level of this skill will give you more energy back after sleeping.
+At level 3 of this skill a harmful effect might fade after you sleep.
+With each level the light radius of your torch increases and your hydration, hunger and rest will decrease slower.
+    
+Cooking allows you to create your own recipes at a cauldron. With each level you will be able to use more crafting slots while cooking.
+With each level you will be able to create foods which give more attributes and have a longer lasting effect.
+
+At level 1 you are able to craft simple and poisonous traps.
+At level 2 you are able to craft frost traps and spider web traps.
+At level 3 you are able to craft fire traps.
+   
+Mining/Smelting allows you to smelt ores at a smelter. At level 2 you will be able to learn how to create a durable pickaxe.
+With each level of this skill mining will be less stressful on your body.
+At level 1 you are able to smelt iron, silver and create bricks from fired clay. At level 2 you are able to smelt gold ore. At level 3 you are able to smelt steel. At level 4 you are able to smelt dalantium and moonstone ore.
+Al level 2 you will be able to smelt faster. At level 3 you will be able to gather crystal fragments from large crystals.
+    
+Swordplay allows you to learn special melee abilities from a trainer. With each level your critical miss chance decreases and your chance to hit increases.
+With each level your chance of dodging and parrying increases. (Swordplay is a class skill. You can only learn two class skills.)
+    
+Not learned yet. (Skill not learned. I should visit a teacher.)
+    
+    
+    
+Block:
+Ranged Hit:
+Ranged Crit:
+    
+You are only able to block if you have a shield equipped. While feared or stunned you cannot block!
+While feared or stunned you cannot dodge!
+If no target is selected the value is calculated using a virtual target which is the same level as you are.
+Your target's distance affects your hit chance! If no target is selected the value is calculated using a virtual target which is the same level as you are.
+If no target is selected the value is calculated using a virtual target which is the same level as you are.
+You are only able to parry if you have a melee weapon equipped. While feared or stunned you cannot parry!
+To increase your skills you need to spend learning points at a skill teacher. Each new level you gain 6 learning points.
+Drinking potions rapidly will get you overdosed. While overdosed you cannot drink any more potions.
+At level 4 you are able to tame a giant beetle, moth or giant frog.
+At level 3 you are able to build cow pens.
+Your mining level is not enough for this material!
+Impossible alloy (cannot mix the two)
+Need an empty bottle!
+I can use these bottles:
+Minimum 2 ingredients required!
+Same as: 
+Not enough materials!
+Your selected main material is missing!
+Please select a main category!
+You need to select a base material!
+Please select an item type!
+Please select a category!
+You need to select a base material!
+You need to select a base material!
+Please select a category!
+You need to select a base material!
+You need to select a base material!
+You need to select a base material!
+You need to select a base material!
+Unusable material!
+Armour Crafting
+Jewellery Crafting
+Weapon Crafting
+Ring Crafting
+Necklace Crafting
+Sword Crafting
+Dagger Crafting
+Bow Crafting
+Staff Crafting
+Wood
+Leather
+Linen
+Iron
+Silver
+Gold
+Moonstone
+Steel
+Dalantium
+Pine Wood
+Helmet
+Chest
+Gloves
+Belt
+Legs
+Feet
+There is no wood in the wood tray!
+There is no more space in the Inventory!
+This empty bottle is not useable at my Alchemy level!
+There is no ore in the Smelter!
+Minig/Smelting skill not learned! I cannot use the smelter.
+I should put some Ripe Wheat in the Millstone!
+Icon: 
+Minimum 1 ingredient required!
+Cooking skill not learned! I cannot use the cauldron.
+Alchemy skill not learned! I cannot use the alchemy table.
+Create Armour skill not learned! I cannot use the anvil.
+Create Weapon skill not learned! I cannot use the anvil.
+These items are not combinable!
+The item can only grant these stats:
+More heat is needed!
+Ancient Linen
+Requirement: quest!
+Shield Crafting
+I should put some Milk in the Churn!
+Farming skill not learned! I cannot use the churn. (Farming level 3 required)
+I don't know how to smelt Dalantium!
+For some reason the moonstone is not melting.
+(Shift) Click an object to bring up the splitting menu or click with your mouse wheel to pick up the topmost item from a stack.
+Right Click on usable items to use them. Right Click on category tabs to Sort items.
+Pick up an ability/spell from your spellbook by clicking it. Move it to the desired quickslot and click again to place it in the slot. Two abilities can be selected in the quickslots for use. A melee and a ranged ability. Right click to select an ability inside the quickslot for use.
+A selected melee ability can be used by left clicking an enemy. If the target is not yet locked the first left click will lock it. When in range and the requirements are met a red sword cursor will indicate that the ability is useable on the target.
+A selected ranged ability can be used by right clicking an enemy. When an ability is not usable because it's requirements are not met, it's icon will appear faded. If an ability doesn't require targeting it may be used from the spellbook or quickslot by right clicking it.
+Drag a seed icon and click it on a field to plant the seed. You must be near a field to do this.
+Drag items into the slots to combine them. A successful combine will put new items in your inventory. Newly discovered combinations will be added to your recipe book.
+Sleeping near a fire is always better than in the dark.
+Indicates that the object is usable. Walk to the object and left click it to use it.
+Indicates that the object is attackable.
+Indicates that it is usable and attackable. To attack these kind of objects you need to press the Shift key and click.
+Indicates that the object is a loot bag.
+Indicates that the enemy is attackable but something (cooldowns, distance..etc.) prevents the action.
+Indicates that the enemy is attackable and all requirements are met for the action.
+A question-mark cursor indicates that you are able to talk to the person.
+Sync
+You can select the object that you would like to build by left clicking on the desired object. While in building mode right click on anything to remove it. While building you can move around freely. Some objects require other objects for you to be able to place them down, like a door which needs a supporting wall next to it.
+You can reconfigure your keys anytime!
+There are ingredients which create special 'EVENTS' when used in potions. These events will happen in the order they are placed into the crafting table. Some ingredients have 'BUFF' effects. These effects will usually increase your attributes for a certain amount of turns. If there are special events and attribute increasing effects in the same potion the attribute increasing effects will be added when the events end.
+To place a note on your map left click inside the Map. Righ click to remove a note.
+You will find info buttons on the bottom right on most panels. Hover over them for additional information.
+This is where I should put food for the animals.
+Used to display armours and weapons. Open up the Mannequin's inventory and place the desired armour/weapon inside.
+Doors need a supporting wall next to them.
+Wait a Turn
+Walk North
+Walk South
+Walk East
+Walk West
+Always Walk
+Inventory
+Journal
+SpellBook
+Character Panel
+Log Book Panel
+Building Menu
+Map
+Known Recipes
+Combine Menu
+Quick Save
+Load Quick Save
+Show NPC Names
+Take All
+Torch
+SafePlace Trinket
+Select Pet
+Pet Follow
+Tactical Grid
+Zoom In
+Zoom Out
+Next Inventory Tab
+Next QuickSlot Bar
+
+     
+QuickSlot 1
+QuickSlot 2
+QuickSlot 3
+QuickSlot 4
+QuickSlot 5
+QuickSlot 6
+QuickSlot 7
+QuickSlot 8
+QuickSlot 9
+QuickSlot 0
+      
+QuickSlot 10
+QuickSlot 11
+QuickSlot 12
+QuickSlot 13
+QuickSlot 14
+QuickSlot 15
+QuickSlot 16
+QuickSlot 17
+QuickSlot 18
+QuickSlot 19
+QuickSlot 20
+QuickSlot 21

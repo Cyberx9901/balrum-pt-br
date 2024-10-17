@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Saudações!"/>
+    <dia npc="0" str="Bom dia para você, filho. Em que posso ajudá-lo?"/>
+    <dia pl="1" str="Você tem uma ótima instalação aqui. Como vão os negócios?"/>
+    <dia npc="1" str="Os negócios têm sido melhores. Os rebeldes não consertam nada. E eles certamente não constroem novos edifícios. É um desastre para a cidade, mas conseguimos. Pelo menos os deuses estão felizes por não derrubarmos tantas árvores como antes."/>
+    <dia pl="2" str="Isso deixa os deuses felizes?"/>
+    <dia npc="2" str="As lendas dizem que um dos antigos deuses criou as florestas. Quando as pessoas começaram a destruir sua criação, ela criou os fios. Muitos de nós não sabemos, mas os fogos-fátuos podem ressuscitar árvores. Os velhos deuses já se foram, mas eu lhe digo que eles não estão mortos. Acho que eles estão descansando no vazio."/>
+    <dia pl="3" str="O vazio?"/>
+    <dia npc="3" str="É um lugar entre tudo. Por que um deus morreria? Bobagem! Veja, estou falando como um louco. Eu deveria estar deixando meu machado cego, e não pensar em deuses há muito esquecidos."/>
+	<dia pl="4" str="Tomar cuidado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

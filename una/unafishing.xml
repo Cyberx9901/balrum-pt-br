@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O cheiro de peixe é muito forte aqui."/>
+    <dia npc="0" str="Você não diz."/>
+    <dia pl="1" str="Aconteceu alguma coisa interessante ultimamente?"/>
+    <dia npc="1" str="Não muito."/>
+    <dia pl="2" str="Posso te ajudar em alguma coisa?"/>
+    <dia npc="2" str="Sim, você pode. Preciso de roupa de boa qualidade para as minhas redes. Eles estão envelhecendo e os buracos neles estão ficando grandes demais."/>
+	<dia pl="3" str="Onde posso conseguir a roupa de cama que você precisa?"/>
+    <dia npc="3" str="Ao sul daqui fica a grande fazenda de linho. Eles deveriam ter bastante roupa de cama. Pergunte por lá se tiver dificuldade em encontrar alguns para mim. Não posso lhe dar nada em troca. Doze peças devem resolver o problema."/>
+    <dia pl="4_0" str="Vou ver o que posso fazer." jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia pl="4_1" str="Eu não me importo com suas redes."/>
+    <dia npc="4" str="Você deveria, porque essas redes colocam comida na mesa das pessoas."/>
+    <dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="5" str="Que nobre da sua parte me ajudar de graça! Vou dar uma olhada. Tenho certeza que posso encontrar algo que valha a pena."/>
+    <dia pl="6" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

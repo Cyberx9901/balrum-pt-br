@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Encontrei outro documento, Neil!"/>
+    <dia npc="0" str="'Neil lê o documento e olha para você..' Não posso mais fazer isso. Não quero saber o que aconteceu nesta floresta. Eles estavam fazendo coisas sombrias e malignas para chamar a atenção do Deus Louco. Temos que parar. Agradeça a Adacus pelo Rei Triston e seus soldados. Eles os pararam. Isso é o que importa. Eles não podem fazer coisas horríveis com mais ninguém. Isso é o que importa. Não o passado. Obrigado pela sua ajuda, garoto. Aqui, pegue essas luvas. Encontrei-os numa cripta. Você fará melhor uso dele do que eu."/>
+	<dia pl="1" str="Este lugar é mau. Esperemos que os necromantes nunca mais andem pelos terrenos de Balrum." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que é esse lugar?"/>
+    <dia npc="0" str="Você tem sorte, jovem viajante."/>
+    <dia pl="1" str="Por que?"/>
+    <dia npc="1" str="Normalmente não me incomodo com visitas. Eles acabam na minha cova rapidamente. Mas preciso da sua ajuda. Você pode agradecer a Murray por ainda estar vivo."/>
+    <dia pl="2_0" str="Eu conheço o seu tipo. Você é um necromante. Diga adeus ao seu poço."  jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="2_1" str="Então você mata todo mundo que vê?"/>
+    <dia npc="2" str="Talvez eu tenha exagerado um pouco. Você vai me ajudar ou não?"/>
+    <dia pl="3" str="Quem é Murray? E sim, eu vou te ajudar. Não quero acabar no seu lindo poço."/>
+    <dia npc="3" str="Bom! Bom! Murray é minha obra-prima. Ele era um camponês infeliz que morava muito perto dessas terras. Os mortos-vivos aqui rapidamente cuidaram dele. Achei que ele seria um ótimo servo, então tentei ressuscitá-lo. Ele voltou dos mortos, mas tem seus problemas, para dizer o mínimo. Desde então venho tentando aperfeiçoar meus métodos. Ele desapareceu há algumas semanas. Se você encontrá-lo, traga-o de volta para mim e eu o recompensarei enormemente."/>
+    <dia pl="4" str="Se eu o vir, o trarei de volta."/>
+    <dia npc="4" str="Excelente! Agora vá embora. Tenho coisas mais importantes para fazer do que conversar com você."/>
+	<dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Garett gostaria de conhecer você."/>
+    <dia npc="0" str="Garett? Quando? Onde? Estou tão animado!"/>
+    <dia pl="1" str="Você gosta do garoto, presumo. Ele irá encontrá-lo em frente à igreja ao pôr do sol."/>
+    <dia npc="1" str="Que romântico! Eu sabia que ele gosta de mim. Sempre que ele está aqui na igreja ele fica olhando para mim. Obrigado. Eu vou estar lá."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

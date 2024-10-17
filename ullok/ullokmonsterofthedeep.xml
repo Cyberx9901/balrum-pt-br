@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou procurando trabalho. Você precisa de alguma ajuda?"/>
+    <dia npc="0" str="Você parece um sujeito capaz! Ouça aqui. Há um monstro em torno destas águas. E nós, pescadores, temos cada vez mais dificuldade para pescar com o passar dos dias. Muitas vezes vemos a criatura. É grande e verde com uma boca monstruosa cheia de dentes. Eu nunca vi uma fera assim antes, eu lhe digo. Você pode nos ajudar? Você vai matar a fera?"/>
+    <dia pl="1" str="O que isso traz para mim?"/>
+    <dia npc="1" str="Os rebeldes levam embora a maior parte dos nossos peixes. Então não tenho dinheiro, se é isso que você quer. Você pode estar interessado em outra coisa?"/>
+    <dia pl="2" str="Estou ouvindo."/>
+    <dia npc="2" str="Um dia, quando eu estava prestes a arrumar meu equipamento de pesca, algo ficou preso na minha vara de pescar. Ao tirá-lo da água, vi, para meu espanto, que era um anel. Era um anel pesado. Muito estranho. Corri para casa e mostrei para minha esposa. Eu queria dar para ela, mas ela ficava dizendo que devia haver um motivo para ele estar na água e ela nem queria tocar nele. Eu poderia dar a você."/>
+	<dia pl="3" str="Interessante. Eu vou matar essa sua fera."/>
+    <dia npc="3" str="Esteja preparado, viajante. Essa fera é enorme!"/>
+	<dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

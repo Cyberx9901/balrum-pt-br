@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Encontrei uma carta no túmulo, mas não entendo as marcas nela."/>
+   <dia npc="0" str="Fascinante. Felizmente posso ler a carta. Está escrito numa língua antiga usada pelas pessoas que viviam nestas florestas. Algumas de suas casas antigas ainda podem ser vistas nas profundezas da floresta."/>
+   <dia pl="1" str="O que isso diz?"/>
+   <dia npc="1" str="Diz 'Que você nunca descanse em paz'."/>
+   <dia pl="2" str="Havia uma caveira empalada em uma vara."/>
+   <dia npc="2" str="Aqueles que enterraram o corpo queriam profanar a pessoa. Eles selaram o corpo para que ninguém soubesse onde o corpo estava enterrado e até profanaram o próprio corpo. Este homem ou mulher deve ter desempenhado um papel importante na história de Darkwood."/>
+   <dia pl="3" str="Você confia em mim agora?"/>
+   <dia npc="3" str="Sim eu faço. A questão é se você quer trabalhar para mim? Não será fácil."/>
+   <dia pl="4" str="O que devo fazer?"/>
+   <dia npc="4" str="Agora que posso confiar em você, posso revelar o que já descobri. Encontrei um documento escrito na mesma língua antiga que você acabou de me dar. Descreve as coisas horríveis que os necromantes fizeram nesta floresta. Acredito que há mais desses documentos para serem encontrados! Sua tarefa é encontrar todos os documentos para que possamos entender o que estava acontecendo em Darkwood séculos atrás."/>
+   <dia pl="5" str="Por onde devo começar a procurar?"/>
+   <dia npc="5" str="Não tenho locais específicos para você. As criptas são um bom lugar para começar, mas imagino que você poderá encontrar documentos por toda Darkwood."/>
+   <dia pl="6" str="Se eu encontrar algo eu trago para você!"/>
+   <dia npc="6" str="Muito bom. Vamos descobrir o que aconteceu aqui juntos!"/>
+   <dia pl="7" str="Fim." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

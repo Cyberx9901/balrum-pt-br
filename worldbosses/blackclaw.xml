@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu matei o urso negro gigante Garra Negra!"/>
+    <dia npc="0" str="Você matou o urso sozinho? Isso é impressionante! Por favor, aceite este presente pelos seus problemas."/>
+    <dia pl="1" str="Obrigado!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

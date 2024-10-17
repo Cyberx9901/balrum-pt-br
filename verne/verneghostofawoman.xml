@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você parece assustado. Está tudo bem?"/>
+    <dia npc="0" str="Contei aos outros sobre o fantasma, mas eles não acreditam em mim."/>
+    <dia pl="1" str="Que fantasma?"/>
+    <dia npc="1" str="Uma mulher. Eu a vi tarde da noite na floresta a leste daqui. Ela continuou andando em minha direção. Eu não sabia o que fazer. Eu tive que correr. Quando me afastei dela, ela sussurrou algo em meu ouvido, como se estivesse ao meu lado."/>
+    <dia pl="2" str="O que ela disse?"/>
+    <dia npc="2" str="Fiquei com tanto medo que não entendi, mas tinha que fazer alguma coisa com o filho dela."/>
+    <dia pl="3" str="Eu acredito em você."/>
+    <dia npc="3" str="Os outros não. Eles acham que eu estava bêbado até os ossos."/>
+	<dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

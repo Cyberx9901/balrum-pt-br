@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Nunca vi você trabalhar com Rhys. Nem por um único dia."/>
+    <dia npc="0" str="Cuide da sua vida. Por que você tem que meter o nariz em tudo?"/>
+    <dia pl="1" str="Todos nesta aldeia têm um emprego. Todo mundo faz algo para tornar nossa vila melhor, exceto você."/>
+    <dia npc="1" str="Você quer me irritar? É isso que você quer? Porque você está se saindo muito bem. Deixe-me em paz."/>
+    <dia pl="2" str="Por que você tem algo para fazer?"/>
+    <dia npc="2" str="Isso é o suficiente. Sair."/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

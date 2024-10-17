@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Conversei com Brown sobre as tábuas de pedra."/>
+    <dia npc="0" str="O que ele disse? Ele sabe de alguma coisa?"/>
+    <dia pl="1" str="A única coisa que ele me disse é que deveríamos ficar longe dos tablets e que eles são itens mágicos há muito esquecidos."/>
+    <dia npc="1" str="O bom e velho Brown sempre teve um pouco de medo do desconhecido. Neste momento não podemos ignorar isto. Isso pode nos ajudar a encontrar os Pacotes."/>
+    <dia pl="2" str="Foi o que eu disse a ele. Ele concordou, mas disse que deveríamos ter muito cuidado. Por que Brown acha que o tablet é perigoso?"/>
+    <dia npc="2" str="Não sei, filho. Brown sempre teve medo de coisas que eram novas para ele. Ele só confia nas coisas que estão escritas em seus livros. Só o tempo dirá se a tábua de pedra é perigosa ou não."/>
+	<dia pl="3" str="Brown é um bom homem e um ótimo professor. Deixe-o ser um pouco cauteloso demais." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

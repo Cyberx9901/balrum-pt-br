@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como estão os pacientes?"/>
+    <dia npc="0" str="Como de costume. Espero que Ed não faça suas travessuras hoje."/>
+    <dia pl="1" str="O que ele faz?"/>
+    <dia npc="1" str="Ele foge para o banheiro externo e... Ele agarra... Não vamos falar sobre isso."/>
+    <dia pl="2" str="Você pode me contar sobre a história do asilo?"/>
+    <dia npc="2" str="Eu não sei muito. Você pode encontrar alguns documentos por aqui."/>
+	<dia pl="3" str="Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

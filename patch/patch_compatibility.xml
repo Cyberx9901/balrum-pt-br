@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Novo diálogo de um patch!"/>
+    <dia npc="0" str="Olá, sou uma nova caixa de diálogo de um patch!"/>
+    <dia pl="1" str="Ótimo!"/>
+    <dia npc="1" str="Sim, ótimo!"/>
+    <dia pl="2" str="Adeus." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Encontrei os restos mortais."/>
+    <dia npc="0" str="Sua missão está longe de estar completa."/>
+    <dia pl="1" str="Você pode me ajudar a encontrar os necromantes restantes?"/>
+    <dia npc="1" str="Não posso ajudá-lo, sua majestade. Você deve procurar a ajuda das guildas. Aconselho você a entrar em contato com a guilda dos magos ou a guilda dos guerreiros. A terceira guilda não é confiável."/>
+    <dia pl="2" str="Meus ancestrais não conseguiram destruir esses restos. Existe uma maneira de destruí-los?"/>
+    <dia npc="2" str="Triston tentou de tudo. Ele reuniu os magos e os seres antigos do mundo. Nem mesmo o seu poder unido poderia destruir os restos mortais. Nasrus os protege com todos os poderes que possui."/>
+    <dia pl="3" str="O que aconteceria se eu fosse capaz de destruí-los?"/>
+    <dia npc="3" str="Isso não pode ser previsto."/>
+    <dia pl="4" str="Tenho que tentar destruir os restos mortais. É a única maneira. Se eu ressuscitar os necromantes, eles destruirão Balrum. Não há força que possa detê-los."/>
+    <dia npc="4" str="Eles devem ter pensado sobre isso. Eles sabem que é quase impossível destruir os seus restos mortais. Caso contrário, eles não teriam enviado você nesta missão."/>
+    <dia pl="5" str="Deve haver uma maneira."/>
+    <dia npc="5" str="Os magos tiveram uma ideia quando Triston lhes mostrou os restos mortais. Eles pensaram que se Triston unisse os dragões, seu poder poderia ser suficiente, mas Triston não conseguiu reunir os dragões. Eu era o único à disposição de Triston e meus poderes por si só não eram suficientes."/>
+	<dia pl="6" str="Quantos dragões existem? Por que Triston falhou?"/>
+    <dia npc="6" str="Restam três de nós. Eu sei que sou o único que resta nesta ilha. Ambos os meus irmãos deixaram Balrum há séculos. O tempo fez Triston falhar. Ele e os magos estavam muito ansiosos. Eles queriam se livrar dos restos mortais o mais rápido possível."/>
+    <dia pl="7" str="Você poderia entrar em contato com seus irmãos? Você tem alguma ideia de onde eles podem estar?"/>
+    <dia npc="7" str="Não funciona assim. Não consigo alcançar meus irmãos. Eu teria ajudado Triston a encontrá-los, mas não consegui. E eu também não posso ajudar você."/>
+    <dia pl="8" str="Se eu encontrar seus irmãos, você me ajudará a destruir os restos mortais?"/>
+    <dia npc="8" str="Farei tudo o que puder, meu rei."/>
+	<dia pl="9" str="Obrigado, guardião." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

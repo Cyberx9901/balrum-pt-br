@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você precisa de alguma coisa, Ida? Estou procurando trabalho."/>
+    <dia npc="0" str="Você sabe alguma coisa sobre marcenaria?"/>
+    <dia pl="1" str="Eu sei um pouco."/>
+    <dia npc="1" str="Então você deve conseguir consertar minha cerca! A cerca apodreceu e preciso que você a conserte para mim. Aquela cerca mantém os animais selvagens longe da minha fazenda e você sabe o quão importante minha fazenda é para a aldeia. Já pedi ajuda ao Jones, mas ele me disse que a cerca está bem do jeito que está. Você verá, preciso consertar a cerca o mais rápido possível. Posso lhe dar ótimos vegetais frescos e maduros se você me ajudar. O que você diz?"/>
+    <dia pl="2" str="Eu vou te ajudar, Ida. Se a sua fazenda não estiver devidamente protegida, nossa aldeia estará em perigo. Você fornece a maioria dos nossos vegetais."/>
+    <dia npc="2" str="Obrigado. Aqui, pegue essas cenouras maduras com antecedência."/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

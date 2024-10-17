@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu sou um novato. Estou procurando trabalho."/>
+    <dia npc="0" str="Um novato! Não tínhamos um novato há décadas. Eu tenho que avisar você. Gosto de me divertir com os novatos. Você ainda está interessado em fazer seu trabalho de novato para mim?"/>
+    <dia pl="1" str="Eu tenho escolha?"/>
+    <dia npc="1" str="Sim! Você não. Ha ha! Desculpe, eu não queria rir. Mas eu fiz. Eu ri alto e forte. Ouça com atenção. Você vê aquele homem ali com vestes vermelhas? O nome dele é Gar. Quando Gar for dormir, aproxime-se dele e acorde-o! Simples, certo? Isso é tudo que preciso de você!"/>
+    <dia pl="2" str="Se eu fizer isso por você, você diria a Van que eu seria uma adição valiosa à guilda?"/>
+    <dia npc="2" str="Claro, claro! Claro! Agora vá! Deixe-me em paz."/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

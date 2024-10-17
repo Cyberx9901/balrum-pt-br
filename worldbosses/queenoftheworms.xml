@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Derrotei um verme gigante que vivia em uma caverna próxima."/>
+    <dia npc="0" str="Existem vermes onde quer que você vá. Esperemos que seus números diminuam agora. Tome isso para seus problemas."/>
+    <dia pl="1" str="Obrigado!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

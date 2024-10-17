@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu matei o líder da matilha de lobos."/>
+    <dia npc="0" str="Você fez um ótimo trabalho, garoto! Tome isso como uma recompensa."/>
+    <dia pl="1" str="Obrigado!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

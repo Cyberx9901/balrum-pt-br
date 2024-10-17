@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você sabe alguma coisa sobre Zelma?"/>
+    <dia npc="0" str="Uma boa escolha, meu jovem, mas ela não está disponível no momento."/>
+    <dia pl="1" str="Não estou aqui para... Não importa, estou tentando encontrá-la porque ela desapareceu há algumas semanas."/>
+    <dia npc="1" str="Então é por isso que ela não veio trabalhar ultimamente. Pensei que ela tivesse encontrado um homem rico para si."/>
+    <dia pl="2" str="Esse pode ser o caso. Você pode me dizer para quem ela trabalhava?"/>
+    <dia npc="2" str="Não mantemos um registro, minha querida. Tenho quase certeza de que ela se meteu em problemas fora do bordel. Você não encontrará respostas aqui."/>
+	<dia pl="3" str="Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

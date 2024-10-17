@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu quero entrar na sua guilda. Bolt me disse que preciso conquistar a confiança de alguns de vocês para poder participar."/>
+    <dia npc="0" str="Um novato! Não tenho absolutamente nenhum problema com você se juntar. Temos que aumentar o nosso número para termos uma hipótese contra os rebeldes. Um dia haverá ordem novamente em Balrum! Os bardos cantarão sobre como expulsamos os rebeldes imundos de Erdal. Faça-me um favor. Traga-me algumas cervejas. Traga quatro! Isso é tudo que preciso de você. Raramente bebemos cerveja aqui. Isso vai deixar os meninos muito felizes! Ha ha! Você tem que valorizar as pequenas coisas da vida! Especialmente agora."/>
+	<dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

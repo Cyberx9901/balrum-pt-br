@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que você faz aqui?"/>
+    <dia npc="0" str="Criamos carvão a partir de madeira. As pessoas aquecem suas casas com isso. Também cheiramos minérios aqui. Por que você está interessado?"/>
+    <dia pl="1" str="Estou procurando uma armadura decente. Você poderia fazer um para mim?"/>
+    <dia npc="1" str="Não posso fazer uma armadura para você, não sou ferreiro. Mas posso fazer barras de metal especiais para você. A armadura mais resistente que você pode fazer é feita de dalantium. Se você me trouxer dalantium cru, eu vou fundi-lo por 500 táleres. E quando você tiver o suficiente, você deve encontrar um mestre ferreiro que possa fazer uma armadura para você."/>
+	<dia pl="2" str="Se eu encontrar algum, eu trarei. Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

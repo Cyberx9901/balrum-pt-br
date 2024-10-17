@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que cheira tão horrível?"/>
+    <dia npc="0" str="Você também pode sentir o cheiro, certo? Continuo dizendo a Worrell que ele precisa limpar o banheiro externo porque é isso que torna esse cheiro insuportável. Ele apenas acena para mim toda vez que menciono isso."/>
+    <dia pl="1" str="Devo tentar falar com ele?"/>
+    <dia npc="1" str="Isso seria ótimo. Espero que ele ouça você."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

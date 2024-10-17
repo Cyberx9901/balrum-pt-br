@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu tenho sua roupa de cama, Una!"/>
+    <dia npc="0" str="Maravilhoso! Agora posso consertar minhas redes. Obrigado, jovem. Tome isso como uma recompensa por seus problemas."/>
+    <dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

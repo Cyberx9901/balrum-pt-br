@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou aqui pelos restos mortais de um necromante Darkwood."/>
+    <dia npc="0" str="Por que o rei procura os restos mortais?"/>
+    <dia pl="1" str="Eu não sou o rei. Tenho que encontrar todos os quatro necromantes. Se eu falhar, meu povo morrerá."/>
+    <dia npc="1" str="Seus ancestrais falaram desses restos mortais, Vossa Majestade. Triston me deixou com uma missão. Eu só deveria permitir que seus descendentes entrassem nas câmaras secretas desta cripta. Eu te pergunto agora. Você precisa mergulhar nas câmaras secretas?"/>
+    <dia pl="2" str="Eu tenho que fazer isso. Meu povo precisa de mim."/>
+    <dia npc="2" str="Você será um bom rei. Cuide do seu povo e seu reino crescerá. A passagem está aberta. Você pode entrar nas câmaras. Sua hora está se aproximando rapidamente, meu rei."/>
+	<dia pl="3" str="Eu vou embora."/>
+    <dia npc="3" str="Mais uma coisa, majestade. Não posso permitir que perturbe os túmulos reais. Se você profanar seus ancestrais, não importará que você tenha sangue de reis correndo em suas veias."/>
+	<dia pl="4" str="Eu entendo, dragão." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

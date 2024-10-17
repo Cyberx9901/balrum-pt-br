@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu quero entrar na sua guilda. Tenho que ganhar a confiança de alguns de vocês para poder participar. Você precisa de alguma ajuda?"/>
+    <dia npc="0" str="Então você quer participar? Bom! Precisamos de mais homens! Mas precisamos de homens fortes. Você está pronto para o desafio?"/>
+    <dia pl="1" str="Eu penso que sim."/>
+    <dia npc="1" str="Você acha que sim? Palavras não são suficientes. Lute comigo! Se você vencer, direi ao Bolt que você deveria se juntar à nossa guilda!"/>
+    <dia pl="2" str="Multar. Eu vou lutar com você. Quando e onde?"/>
+    <dia npc="2" str="Bem aqui, agora mesmo! Só podemos usar ataques físicos uns contra os outros. Nenhuma magia é permitida! Se você usar magia eu vencerei automaticamente. Você pode me desafiar a qualquer hora e quantas vezes quiser. Tenho certeza que você não conseguirá me derrotar em nossa primeira luta. Ha ha! Estou pronto quando você estiver! Ah, e também, você não pode usar seu animal de estimação!"/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu tenho um troll para você."/>
+    <dia npc="0" str="Maravilhoso! Muito obrigado jovem. Aqui pegue esta pintura. É um dos meus melhores."/>
+    <dia pl="1" str="Obrigado. O que você fará com o corpo depois de se inspirar nele?"/>
+    <dia npc="1" str="Meu docinho cuidará disso. Ela tem um grande apetite, você sabe."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Ouvi dizer que vocês, meninas, estão viajando para a reitoria. Não há nada de errado nisso, só quero lhe dizer que o padre Malvin está zangado com isso."/>
+    <dia npc="0" str="Padre Malvin está com raiva? Que piada! Na maioria das vezes ele aparece à nossa porta. Que hipócrita é esse padre! Ele quer todos nós para si? Ha ha!"/>
+    <dia pl="1" str="Eu só queria informar que ele está tramando algo."/>
+    <dia npc="1" str="Obrigado, mas podemos nos proteger. Se perdermos alguns clientes aqui, encontraremos novos lá."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você é um dos caçadores?"/>
+    <dia npc="0" str="Porque eu sou mulher, certo? Você acha difícil acreditar que uma mulher possa ser caçadora?"/>
+    <dia pl="1_0" str="Para ser honesto, você não parece alguém que sabe manejar uma arma."/>
+    <dia pl="1_1" str="Me desculpe, eu não queria te chatear. Estou só dando uma olhada." jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia npc="1" str="Sair."/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Olhando ao redor?"/>
+    <dia pl="3" str="Estou procurando trabalho."/>
+    <dia npc="3" str="Ótimo! Você parece bem. Veja bem, a cada dez anos nós, caçadores, participamos de um grande desafio. Quem trouxer o troféu mais impressionante vence. Todos os outros têm algo impressionante. Diego encontrou o maior urso pardo dos últimos anos. Eu tenho que superá-lo de alguma forma."/>
+    <dia pl="4" str="Se eu vir ou encontrar alguma coisa, eu te conto."/>
+    <dia npc="4" str="Obrigado, estranho. Se você puder me ajudar, eu lhe ensinarei algumas coisas sobre caça."/>
+	<dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

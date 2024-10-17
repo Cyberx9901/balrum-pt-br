@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Quem é você? Há quanto tempo você está aqui?"/>
+    <dia npc="0" str="Minha missão era limpar esta caverna. Meu comandante me contou que as bruxas escavaram essas cavernas com as próprias mãos. Quando desci, ficou óbvio que ele estava mentindo. Esta caverna foi devidamente projetada e construída por pessoas que sabiam o que estavam fazendo. As bruxas selvagens não poderiam tê-lo construído. Acho que isso foi uma espécie de centro de treinamento para eles."/>
+    <dia pl="1" str="Você precisa de alguma ajuda? O que aconteceu?"/>
+    <dia npc="1" str="Já faz tanto tempo. Eles me amaldiçoaram, você sabe. Durante anos pensei que tinha morrido, mas então como poderia estar falando com você? Não posso falar da minha missão, mas posso dizer que falhei. Tivemos sucesso? As matas estão limpas?"/>
+    <dia pl="2" str="Não sei. EU.."/>
+    <dia npc="2" str="Não importa. Eu tenho que aceitar meu destino. Você também deveria aceitar seu destino."/>
+    <dia pl="3" str="O que você quer dizer?" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

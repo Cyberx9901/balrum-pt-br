@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Por que você está morando aqui?"/>
+    <dia npc="0" str="Bem vindo jovem. Meu nome é Orran. Faz anos que não vejo uma única alma. Em que posso ajudá-lo? E para responder sua pergunta eu queria um pedaço. O deserto mantém os rebeldes afastados."/>
+    <dia pl="1" str="O que você faz aqui?"/>
+    <dia npc="1" str="Não muito. Eu costumava ser marinheiro. Bem, se pensar bem, ainda sou um marinheiro. Você quer sair de Balrum? Foi por isso que você me procurou?"/>
+    <dia pl="2" str="Onde você pode me levar?"/>
+    <dia npc="2" str="Não posso mais fazer viagens longas. Estou muito velho. Mas posso levá-lo até a ilha mais próxima, se quiser. Ilha do Crocodilo é o nome do lugar. Devo dizer que é um nome adequado."/>
+	<dia pl="3" str="Leve-me até lá, Oran."/>
+	<dia npc="3" str="Não tão rápido jovem aventureiro! Vou precisar de alguma compensação. Na minha idade, mesmo uma viagem curta pode ser muito perigosa. Vou precisar de dois mil táleres seus, garoto. Não mais. Nada menos."/>
+	<dia pl="4" str="Vou pensar sobre isso." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

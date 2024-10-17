@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou procurando trabalho. Você precisa de alguma ajuda?"/>
+    <dia npc="0" str="Talvez eu tenha algo para você fazer."/>
+    <dia pl="1" str="O que você tem para mim?"/>
+    <dia npc="1" str="O leite que recebi de Bardan estava azedo novamente. Isso vem acontecendo há dias. Você consegue chegar ao fundo disso? E exijo um reembolso! Ele me deve 50 táleres! Se você fizer isso, eu lhe darei metade do dinheiro. Norsa e Zane também receberam leite azedo. Isto é ultrajante. Nestes tempos, cada táler conta; os rebeldes não nos permitem ter uma fortuna. Se alguém juntar uma pequena fortuna, os rebeldes virão e levarão a maior parte dela. A fazenda de Bardan fica logo acima daqui, ao norte."/>
+    <dia pl="2" str="Vou ver o que posso fazer. Tomar cuidado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

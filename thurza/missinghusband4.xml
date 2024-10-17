@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Encontrei Robert perto da toca do urso. Ele já estava morto quando cheguei lá."/>
+    <dia npc="0" str="Por um momento, Thursa parece aliviada." O que vou fazer agora. Eu estou... Por favor, me deixe em paz agora."/>
+    <dia pl="1" str="Sinto muito, Thurza." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

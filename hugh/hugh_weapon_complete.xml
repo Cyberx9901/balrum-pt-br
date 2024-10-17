@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Estou aqui pela arma."/>
+   <dia npc="0" str="Devo dizer que é um dos meus melhores trabalhos. Cuide bem dele e não conte a ninguém que eu fiz isso."/>
+   <dia pl="1" str="Obrigado." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

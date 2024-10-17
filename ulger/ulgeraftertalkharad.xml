@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Há um aprendiz de ferreiro na cidade. Seu nome é Harad. Ele cuida da velha ferraria dia e noite, embora não trabalhe como ferreiro. Ele é um sujeito dedicado. Vocês dois deveriam trabalhar juntos. Você poderia ensiná-lo."/>
+    <dia npc="0" str="Isso seria maravilhoso, mas não posso ir para a cidade. Os rebeldes me matariam."/>
+    <dia pl="1" str="E se Harad e o ferreiro viessem até você?"/>
+    <dia npc="1" str="O que você está falando?"/>
+    <dia pl="2" str="Eu poderia construir a ferraria para você aqui nesta caverna e tenho certeza de que Harad estaria mais do que disposto a vir aqui e trabalhar com você."/>
+    <dia npc="2" str="Você faria isso? Poderíamos fazer todos os tipos de coisas. Esta caverna está cheia de metais preciosos. Se você fizer isso por mim, farei para você uma bela armadura. Eu não posso acreditar. Uma ferraria aqui na caverna. Que ótima ideia."/>
+	<dia pl="3" str="Começarei a construir as instalações e falarei com Harad o mais breve possível."/>
+    <dia npc="3" str="Obrigado, estranho. Você deu um novo sentido à minha vida. Eu nunca poderei retribuir você."/>
+	<dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

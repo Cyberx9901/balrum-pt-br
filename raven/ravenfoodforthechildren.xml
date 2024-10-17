@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou procurando trabalho."/>
+    <dia npc="0" str="Você veio ao lugar certo. As crianças precisam de muitas coisas aqui na escola, mas o mais importante é colocar comida fresquinha na mesinha todos os dias. Tem sido cada vez mais difícil alimentar todas as bocas desde que muitas pessoas deixaram Balrum por causa dos rebeldes."/>
+    <dia pl="1" str="Você precisa de suprimentos? Os rebeldes não te dão comida?"/>
+    <dia npc="1" str="Eles dão alguma comida à escola, mas ultimamente não tem sido suficiente. Os cuidadores têm que trazer a própria comida para as crianças e mal temos o suficiente em casa. Você vai nos ajudar? Parece que você pode dispensar alguns táleres."/>
+    <dia pl="2_0" str="Não é da minha conta."  jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="2_1" str="Absolutamente! Voltarei com algumas maçãs e pão fresco para os mais pequenos!"/>
+    <dia npc="2" str="Obrigado, estranho!"/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

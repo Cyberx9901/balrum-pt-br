@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Robert não foi para casa. Você sabe onde ele pode estar?"/>
+    <dia npc="0" str="Aquele velho bêbado. Eu o vi cambaleando perto da toca do Urso, perto da pousada de Fred."/>
+    <dia pl="1" str="Thursa parecia muito chateada. Ela me disse que queria contar a Rupert algo realmente importante. Você sabe o que?"/>
+    <dia npc="1" str="Acho que ela está grávida! Pelo menos foi o que Selena me disse. Algumas noites atrás ouvi gritos vindos da casa deles. Espero que ele não a tenha machucado."/>
+    <dia pl="2" str="Eu vou atrás dele." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
