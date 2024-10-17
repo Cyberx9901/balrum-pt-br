@@ -1,6 +1,7 @@
 Como usar:
 
 Entre no caminho da instalação do jogo, no caso da Steam em sistemas que usam Linux geralmente o caminho é
+  
 /home/$USERNAME/.local/share/Steam/steamapps/common/Balrum/
 
 A partir do diretório Balrum entre em files/dialogs, rode:
