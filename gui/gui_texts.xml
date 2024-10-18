@@ -411,28 +411,28 @@
     <Sword_play n="Esgrima" />
     <potions_drank n="Poções Bebidas:" />//41
     
-    <description_pick_locks_01 n="By possessing this skill you have a small chance of opening a lock without having to try a combination." />
-    <description_pick_locks_02 n="This chance increases with each level of the skill." />//43
-    <description_pick_locks_04 n="At level 2 you will be able to learn how to create a sturdy lock pick from a trainer." />
-    <description_pick_locks_05 n="Each level will decrease the combination needed to open locked chest/doors." />//45
+    <description_pick_locks_01 n="Ao possuir essa habilidade, você tem uma pequena chance de abrir uma fechadura sem ter que tentar uma combinação." />
+    <description_pick_locks_02 n="Essa chance aumenta com cada nível de habilidade." />//43
+    <description_pick_locks_04 n="No nível 2, você poderá aprender a criar uma chave de fenda resistente com um treinador." />
+    <description_pick_locks_05 n="Cada nível diminuirá a combinação necessária para abrir baús/portas trancadas." />//45
     
-    <description_create_weapon_01 n="Create Weapon allows you to create your custom weapons at an anvil. With each level you will be able to use more crafting slots while creating weapons." />
-    <description_create_weapon_02 n="With each level you will be able to create weapons which give more attributes and deal more damage. You might find schematics that require a certain level of this skill. At level 2 you will be able to build a Repair Statue at your Safeplace." />//47
+    <description_create_weapon_01 n="Criar Arma permite que você crie suas armas personalizadas em uma bigorna. Com cada nível, você poderá usar mais slots de criação enquanto cria armas." />
+    <description_create_weapon_02 n="Com cada nível, você poderá criar armas que dão mais atributos e causam mais dano. Você pode encontrar esquemas que exigem um certo nível dessa habilidade. No nível 2, você poderá construir uma Estátua de Reparo em seu local seguro." />//47
     
-    <description_create_armor_01 n="Create Armour allows you to create your custom armours at an anvil. With each level you will be able to use more crafting slots while creating armour." />
-    <description_create_armor_02 n="With each level you will be able to create armour which gives more attributes and has higher base armour. You might find schematics that require a certain level of this skill. At level 2 you will be able to build a Repair Statue at your Safeplace." />//49
+    <description_create_armor_01 n="Criar Armaduras permite que você crie suas armaduras personalizadas em uma bigorna. Com cada nível, você poderá usar mais slots de criação enquanto cria armaduras." />
+    <description_create_armor_02 n="Com cada nível, você poderá criar armaduras que dão mais atributos e têm uma armadura base mais alta. Você pode encontrar esquemas que exigem um certo nível dessa habilidade. No nível 2, você poderá construir uma Estátua de Reparo em seu local seguro." />//49
   
-    <description_carpenter_01 n="Each level will enable you to build new basic structures at your Safeplace. You might find schematics which require a certain level of this skill. You can learn how to build more special structures from teachers. (You can only build at a Safeplace.)" />
-    <description_carpenter_02 n="At level 2 you will be able to learn how to create durable tools from a trainer." />
-    <description_carpenter_03 n="Chopping down trees will be less stressful on your body with each level." />//52----
+    <description_carpenter_01 n="Cada nível permitirá que você construa novas estruturas básicas em seu local seguro. Você pode encontrar esquemas que exigem um certo nível dessa habilidade. Você pode aprender a construir estruturas mais especiais com professores. (Você só pode construir em um local seguro.)" />
+    <description_carpenter_02 n="No nível 2, você poderá aprender a criar ferramentas duráveis ​​com um treinador." />
+    <description_carpenter_03 n="Cortar árvores será menos estressante para seu corpo a cada nível." />//52----
     
-    <description_alchemy_02 n="Alchemy allows you to create your own potions at an alchemy table. With each level you will be able to use more crafting slots while creating potions." />
-    <description_alchemy_03 n="With each level you will be able to use new plants and create potions which give more attributes." />//54
+    <description_alchemy_02 n="Alquimia permite que você crie suas próprias poções em uma mesa de alquimia. Com cada nível, você poderá usar mais slots de crafting enquanto cria poções." />
+    <description_alchemy_03 n="A cada nível você poderá usar novas plantas e criar poções que dão mais atributos." />//54
     
-    <description_hunting_01 n="Hunting allows you to learn a few special abilities from a trainer. Each level will increase your chance by 10% (without the Hunting skill the taming chance is 50%) to successfully tame an animal with a Animal Taming Trap.  At higher skill levels you will be able to harvest more parts of the animals you hunt." />
-    <description_hunting_02 n="At level 1 you are able to tame a rat or a wolf." />
-    <description_hunting_03 n="At level 2 you are able to tame a bear or a deer." />
-    <description_hunting_03 n="At level 3 you are able to tame a mantis, spider or a crab." />//58-----
+    <description_hunting_01 n="A caça permite que você aprenda algumas habilidades especiais de um treinador. Cada nível aumentará sua chance em 10% (sem a habilidade de caça, a chance de domar é de 50%) de domar com sucesso um animal com uma armadilha de domar animais. Em níveis de habilidade mais altos, você poderá colher mais partes dos animais que caça." />
+    <description_hunting_02 n="No nível 1 você é capaz de domar um rato ou um lobo." />
+    <description_hunting_03 n="No nível 2 você é capaz de domar um urso ou um veado." />
+    <description_hunting_03 n="No nível 3 você pode domar um louva-a-deus, uma aranha ou um caranguejo." />//58-----
     
     <description_arcane_arts_02 n="Arcane Arts allows you to learn spells from a trainer. Each level will decrease the chance of a critical spell failure." />
     <description_arcane_arts_03 n="At level 2 of this skill you have a slight chance to cast spells with no mana usage resulting in a perfect cast. (Arcane Arts is a class skill. You can only learn two class skills.)" />//60
