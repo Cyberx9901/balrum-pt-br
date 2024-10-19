@@ -435,7 +435,7 @@
     <description_hunting_03 n="No nível 3 você pode domar um louva-a-deus, uma aranha ou um caranguejo." />//58-----
     
     <description_arcane_arts_02 n="Artes Arcanas permite que você aprenda magias de um treinador. Cada nível diminuirá a chance de uma falha crítica de magia." />
-    <description_arcane_arts_03 n="At level 2 of this skill you have a slight chance to cast spells with no mana usage resulting in a perfect cast. (Arcane Arts is a class skill. You can only learn two class skills.)" />//60
+    <description_arcane_arts_03 n="No nível 2 desta habilidade, você tem uma pequena chance de conjurar magias sem uso de mana, resultando em uma conjuração perfeita. (Artes Arcanas é uma habilidade de classe. Você só pode aprender duas habilidades de classe.)" />//60
     
     <description_archery_01 n="Archery allows you to learn special ranged abilities from a trainer. At level 2 you are able to create poison arrows. " />
     <description_archery_02 n="At level 3 you are able to create fire arrows. " />
