@@ -491,37 +491,37 @@
     <description_armor n="Seu acerto mágico e sua chance crítica são reduzidos em %data%%." /> //104
     
     
-    <block n="Block:" />//105
-    <rangedHit n="Ranged Hit:" />//106
-    <rangedCrit n="Ranged Crit:" />//107
+    <block n="Bloqueio:" />//105
+    <rangedHit n="Ataque à distância:" />//106
+    <rangedCrit n="Ataque crítico à distância:" />//107
     
-    <block n="You are only able to block if you have a shield equipped. While feared or stunned you cannot block!" />108
-    <dodge n="While feared or stunned you cannot dodge!" />
-    <meleeHit n="If no target is selected the value is calculated using a virtual target which is the same level as you are." />
-    <meleeCrit n="If no target is selected the value is calculated using a virtual target which is the same level as you are. Critical damage modifier is: %data%%." />
-    <rangedHit n="Your target's distance affects your hit chance! If no target is selected the value is calculated using a virtual target which is the same level as you are." />//112
-    <rangedCrit n="If no target is selected the value is calculated using a virtual target which is the same level as you are. Critical damage modifier is: %data%%." /> 
-    <spellHit n="If no target is selected the value is calculated using a virtual target which is the same level as you are." />
-    <spellCrit n="Spell critical chance. Critical damage modifier is: %data%%." />
-    <parry n="You are only able to parry if you have a melee weapon equipped. While feared or stunned you cannot parry!" /> 
-    <resistances n="30% of the resistance value is a chance to resist the given type of magic completely." /> //117
-    <learningpoints n="To increase your skills you need to spend learning points at a skill teacher. Each new level you gain 6 learning points." /> //118
-    <potionsdrank n="Drinking potions rapidly will get you overdosed. While overdosed you cannot drink any more potions." /> //119
+    <block n="Você só pode bloquear se tiver um escudo equipado. Enquanto estiver com medo ou atordoado, você não pode bloquear!" />108
+    <dodge n="Enquanto estiver com medo ou atordoado, você não poderá se esquivar!" />
+    <meleeHit n="Se nenhum alvo for selecionado, o valor será calculado usando um alvo virtual que esteja no mesmo nível que você." />
+    <meleeCrit n="Se nenhum alvo for selecionado, o valor é calculado usando um alvo virtual que é do mesmo nível que você. O modificador de dano crítico é: %data%%." />
+    <rangedHit n="A distância do seu alvo afeta sua chance de acerto! Se nenhum alvo for selecionado, o valor é calculado usando um alvo virtual que esteja no mesmo nível que você." />//112
+    <rangedCrit n="Se nenhum alvo for selecionado, o valor é calculado usando um alvo virtual que é do mesmo nível que você. O modificador de dano crítico é: %data%%." /> 
+    <spellHit n="Se nenhum alvo for selecionado, o valor será calculado usando um alvo virtual que esteja no mesmo nível que você." />
+    <spellCrit n="Chance de acerto crítico de magia. O modificador de dano crítico é: %data%%." />
+    <parry n="Você só pode aparar se tiver uma arma corpo a corpo equipada. Enquanto estiver com medo ou atordoado, você não pode aparar!" /> 
+    <resistances n="30% do valor de resistência é uma chance de resistir completamente ao tipo de magia fornecido." /> //117
+    <learningpoints n="Para aumentar suas habilidades, você precisa gastar pontos de aprendizado em um professor de habilidades. A cada novo nível, você ganha 6 pontos de aprendizado." /> //118
+    <potionsdrank n="Beber poções rapidamente fará com que você tenha uma overdose. Enquanto estiver em overdose, você não pode beber mais poções." /> //119
     <baseplusadditional n="%data% Base " />
-    <Rested n="Rested: %data%%" />//121
-    <Thirst n="Hydrated: %data%%" />
-    <Hunger n="Fed: %data%%" />
-    <description_hunting_04 n="At level 4 you are able to tame a giant beetle, moth or giant frog." />//124-----
-    <description_farming_04 n="At level 3 you are able to build cow pens." />//125
+    <Rested n="Descansado: %data%%" />//121
+    <Thirst n="Hidratado: %data%%" />
+    <Hunger n="Alimentado: %data%%" />
+    <description_hunting_04 n="No nível 4, você pode domar um besouro gigante, uma mariposa ou um sapo gigante." />//124-----
+    <description_farming_04 n="No nível 3, você pode construir currais para vacas." />//125
   </player_info>  
   <crafting>
-    <Mining_Level n="Your mining level is not enough for this material!" />
-    <impos_alloy n="Impossible alloy (cannot mix the two)" />
-    <Need_empty_bottle n="Need an empty bottle!" />
-    <Bottle_in_your_level n="I can use these bottles:" />
-    <Not_enough_ingredients n="Minimum 2 ingredients required!" />
-    <it_is_the_same_recepie n="Same as: " />
-    <Not_enough n="Not enough materials!" />//6
+    <Mining_Level n="Seu nível de mineração não é suficiente para este material!" />
+    <impos_alloy n="Liga impossível (não é possível misturar os dois)" />
+    <Need_empty_bottle n="Preciso de uma garrafa vazia!" />
+    <Bottle_in_your_level n="Posso usar estas garrafas:" />
+    <Not_enough_ingredients n="São necessários no mínimo 2 ingredientes!" />
+    <it_is_the_same_recepie n="Igual a: " />
+    <Not_enough n="Não há materiais suficientes!" />//6
 	<cannot_grant_more n="Your %data% cannot grant any more of these attributes at this skill level:" /> 
 	<Not_enough_main_material n="Your selected main material is missing!" />
 	<main_category_select n="Please select a main category!" />  
