@@ -434,7 +434,7 @@
     <description_hunting_03 n="No nível 2 você é capaz de domar um urso ou um veado." />
     <description_hunting_03 n="No nível 3 você pode domar um louva-a-deus, uma aranha ou um caranguejo." />//58-----
     
-    <description_arcane_arts_02 n="Arcane Arts allows you to learn spells from a trainer. Each level will decrease the chance of a critical spell failure." />
+    <description_arcane_arts_02 n="Artes Arcanas permite que você aprenda magias de um treinador. Cada nível diminuirá a chance de uma falha crítica de magia." />
     <description_arcane_arts_03 n="At level 2 of this skill you have a slight chance to cast spells with no mana usage resulting in a perfect cast. (Arcane Arts is a class skill. You can only learn two class skills.)" />//60
     
     <description_archery_01 n="Archery allows you to learn special ranged abilities from a trainer. At level 2 you are able to create poison arrows. " />
