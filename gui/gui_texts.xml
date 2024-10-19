@@ -437,26 +437,26 @@
     <description_arcane_arts_02 n="Artes Arcanas permite que você aprenda magias de um treinador. Cada nível diminuirá a chance de uma falha crítica de magia." />
     <description_arcane_arts_03 n="No nível 2 desta habilidade, você tem uma pequena chance de conjurar magias sem uso de mana, resultando em uma conjuração perfeita. (Artes Arcanas é uma habilidade de classe. Você só pode aprender duas habilidades de classe.)" />//60
     
-    <description_archery_01 n="Archery allows you to learn special ranged abilities from a trainer. At level 2 you are able to create poison arrows. " />
-    <description_archery_02 n="At level 3 you are able to create fire arrows. " />
-    <description_archery_03 n="With each level of this skill your chance of hitting and critically hitting with a bow increases and the damage bonus from your dexterity while using a bow also increases. Each level will decrease the chance of a critical miss. (Archery is a class skill. You can only learn two class skills.)" />//63
+    <description_archery_01 n="Arquearia permite que você aprenda habilidades especiais de longo alcance com um treinador. No nível 2, você é capaz de criar flechas envenenadas." />
+    <description_archery_02 n="No nível 3 você é capaz de criar flechas de fogo. " />
+    <description_archery_03 n="Com cada nível dessa habilidade, sua chance de acertar e acertar criticamente com um arco aumenta e o bônus de dano da sua destreza ao usar um arco também aumenta. Cada nível diminuirá a chance de um erro crítico. (Arquearia é uma habilidade de classe. Você só pode aprender duas habilidades de classe.)" />//63
     
-    <description_farming_01 n="With each level of this skill you are able to plot more fields to plant on. " />
-    <description_farming_02 n="At level 1 you are able to build pig and chicken pens." />
-    <description_farming_03 n="At level 2 you are able to build spider pens." />//66
+    <description_farming_01 n="Com cada nível dessa habilidade, você poderá traçar mais campos para plantar. " />
+    <description_farming_02 n="No nível 1, você pode construir currais para porcos e galinhas." />
+    <description_farming_03 n="No nível 2, você pode construir currais de aranha." />//66
     
-    <description_survival_01 n="Each level of this skill will grant you 10% chance to cheat death. At level 3 of this skill you are able to build a sturdy tent that has a larger inventory and gives you a slightly better bonus after sleeping." />
-    <description_survival_02 n="Each level of this skill will increase the amount of health you can recover when tending your wounds in a tent and decreases the chance of a bone fracture. Each level of this skill will give you more energy back after sleeping." />
-    <description_survival_03 n="At level 3 of this skill a harmful effect might fade after you sleep." />
-    <description_survival_04 n="With each level the light radius of your torch increases and your hydration, hunger and rest will decrease slower." />//70
+    <description_survival_01 n="Cada nível dessa habilidade lhe dará 10% de chance de enganar a morte. No nível 3 dessa habilidade, você é capaz de construir uma barraca resistente que tem um inventário maior e lhe dá um bônus um pouco melhor depois de dormir." />
+    <description_survival_02 n="Cada nível dessa habilidade aumentará a quantidade de saúde que você pode recuperar ao cuidar de seus ferimentos em uma tenda e diminuirá a chance de uma fratura óssea. Cada nível dessa habilidade lhe devolverá mais energia depois de dormir." />
+    <description_survival_03 n="No nível 3 desta habilidade, um efeito prejudicial pode desaparecer após você dormir." />
+    <description_survival_04 n="A cada nível, o raio de luz da sua tocha aumenta e sua hidratação, fome e descanso diminuirão mais lentamente." />//70
     
-    <description_cooking_01 n="Cooking allows you to create your own recipes at a cauldron. With each level you will be able to use more crafting slots while cooking." />
-    <description_cooking_02 n="With each level you will be able to create foods which give more attributes and have a longer lasting effect." />//72
+    <description_cooking_01 n="Cozinhar permite que você crie suas próprias receitas em um caldeirão. A cada nível, você poderá usar mais slots de criação enquanto cozinha." />
+    <description_cooking_02 n="A cada nível, você poderá criar alimentos que dão mais atributos e têm um efeito mais duradouro." />//72
 
-    <description_traps_01 n="At level 1 you are able to craft simple and poisonous traps." />
-    <description_traps_02 n="At level 2 you are able to craft frost traps and spider web traps." />
-    <description_traps_03 n="At level 3 you are able to craft fire traps." />
-    <description_traps_04 n="With each level you will have a better chance of disarming traps and with each level you get 20% chance to place down a trap without triggering a new turn." />//76
+    <description_traps_01 n="No nível 1, você é capaz de criar armadilhas simples e venenosas." />
+    <description_traps_02 n="No nível 2, você pode criar armadilhas de gelo e armadilhas de teia de aranha." />
+    <description_traps_03 n="No nível 3, você pode criar armadilhas de fogo." />
+    <description_traps_04 n="A cada nível, você terá uma chance maior de desarmar armadilhas e, a cada nível, você terá 20% de chance de colocar uma armadilha sem acionar um novo turno." />//76
    
     <description_mining_smelting_01 n="Mining/Smelting allows you to smelt ores at a smelter. At level 2 you will be able to learn how to create a durable pickaxe." />//77
     <description_mining_smelting_02 n="With each level of this skill mining will be less stressful on your body." />
