@@ -458,37 +458,37 @@
     <description_traps_03 n="No nível 3, você pode criar armadilhas de fogo." />
     <description_traps_04 n="A cada nível, você terá uma chance maior de desarmar armadilhas e, a cada nível, você terá 20% de chance de colocar uma armadilha sem acionar um novo turno." />//76
    
-    <description_mining_smelting_01 n="Mining/Smelting allows you to smelt ores at a smelter. At level 2 you will be able to learn how to create a durable pickaxe." />//77
-    <description_mining_smelting_02 n="With each level of this skill mining will be less stressful on your body." />
-    <description_mining_smelting_03 n="At level 1 you are able to smelt iron, silver and create bricks from fired clay. At level 2 you are able to smelt gold ore. At level 3 you are able to smelt steel. At level 4 you are able to smelt dalantium and moonstone ore." />
-    <description_mining_smelting_04 n="Al level 2 you will be able to smelt faster. At level 3 you will be able to gather crystal fragments from large crystals." />//80
+    <description_mining_smelting_01 n="Mineração/Fundição permite que você funda minérios em uma fornalha. No nível 2, você poderá aprender a criar uma picareta durável." />//77
+    <description_mining_smelting_02 n="A cada nível dessa habilidade, a mineração será menos estressante para seu corpo." />
+    <description_mining_smelting_03 n="No nível 1, você pode fundir ferro, prata e criar tijolos de argila queimada. No nível 2, você pode fundir minério de ouro. No nível 3, você pode fundir aço. No nível 4, você pode fundir minério de dalântio e pedra-da-lua." />
+    <description_mining_smelting_04 n="No nível 2 você poderá fundir mais rápido. No nível 3 você poderá coletar fragmentos de cristal de cristais grandes." />//80
     
-    <description_swordplay_01 n="Swordplay allows you to learn special melee abilities from a trainer. With each level your critical miss chance decreases and your chance to hit increases." />
-    <description_swordplay_02 n="With each level your chance of dodging and parrying increases. (Swordplay is a class skill. You can only learn two class skills.)" />//82
+    <description_swordplay_01 n="Esgrima permite que você aprenda habilidades especiais de combate corpo a corpo com um treinador. A cada nível, sua chance de erro crítico diminui e sua chance de acerto aumenta." />
+    <description_swordplay_02 n="A cada nível, sua chance de esquivar e aparar aumenta. (Esgrima é uma perícia de classe. Você só pode aprender duas perícias de classe.)" />//82
     
-    <learn_req n="Not learned yet. (Skill not learned. I should visit a teacher.)" />//83
+    <learn_req n="Não aprendido ainda. (Habilidade não aprendida. Eu deveria visitar um professor.)" />//83
     
-    <description_vitality n="Each vitality increases your total health by %data%. Your total health is increased by %data%." />//84
-    <description_strength n="Strength increases your melee damage (affected by swordplay). Your physical damage is increased by %data%." />
-    <description_armor n="Your target's armor decreases your melee critical chance by %data%%. (needs selected target)" />//86
-    <description_armor n="Your dodge chance is decreased by %data%%." />
-    <description_dexterity n="Your melee hit chance is increased by %data%%." />
-    <description_dexterity n="Your ranged damage is increased by %data%. (affected by archery)" />
-    <description_dexterity n="Your ranged hit chance is increased by %data%%." />
-    <description_dexterity n="Your melee/ranged critical chance is increased by %data%%." />
-    <description_dexterity n="Your dodge chance is increased by %data%%." />
-    <description_strength n="Your block chance is increased by %data%%." />
-    <description_intelligence n="Each intellect increases your total mana by %data%. Your total mana is increased by %data%." />
-    <description_intelligence n="Your spell damage is increased by %data%. (affected by arcane arts)" />
-    <description_intelligence n="Your spell hit chance is increased by %data%%." />
-    <description_intelligence n="Your spell critical chance is increased by %data%%." />
-    <description_wisdom n="Your spell damage is increased by %data%. (affected by arcane arts)" />
-    <description_wisdom n="Every %data% points of wisdom increases your mana regenration by %data%. Every %data% turns you regenerate %data% mana. You will regenerate mana in %data% turns. While out of combat mana regenerates at 150%." />//99
-    <description_strength n="Your dodge chance penalty caused by your armour is %data%%. Strength reduces this penalty." />//100
- 	<description_strength n="Every %data% points in strength increases your total armour by %data%. Your total armour is increased by %data%." />//101
-    <description_vitality n="Every %data% points in vitality increases all your resistances by 1%. Your resistances are increased by %data%%." />//102
-    <description_armor n="Incoming melee damage is reduced by %data%%. (needs selected target)" />
-    <description_armor n="Your spell hit and critical chance is reduced by %data%%." /> //104
+    <description_vitality n="Cada vitalidade aumenta sua saúde total em %data%. Sua saúde total é aumentada em %data%." />//84
+    <description_strength n="Força aumenta seu dano corpo a corpo (afetado por esgrima). Seu dano físico é aumentado em %data%." />
+    <description_armor n="A armadura do seu alvo diminui sua chance de acerto crítico corpo a corpo em %data%%. (precisa do alvo selecionado)" />//86
+    <description_armor n="Sua chance de esquiva é reduzida em %data%%." />
+    <description_dexterity n="Sua chance de acerto corpo a corpo é aumentada em %data%%." />
+    <description_dexterity n="Seu dano à distância é aumentado em %data%. (afetado por arquearia)" />
+    <description_dexterity n="Sua chance de acerto à distância é aumentada em %data%%." />
+    <description_dexterity n="Sua chance de acerto crítico corpo a corpo/à distância é aumentada em %data%%." />
+    <description_dexterity n="Sua chance de esquiva é aumentada em %data%%." />
+    <description_strength n="Sua chance de bloqueio é aumentada em %data%%." />
+    <description_intelligence n="Cada intelecto aumenta sua mana total em %data%. Sua mana total é aumentada em %data%." />
+    <description_intelligence n="Seu dano mágico é aumentado em %data%. (afetado por artes arcanas)" />
+    <description_intelligence n="Sua chance de acerto mágico é aumentada em %data%%." />
+    <description_intelligence n="Sua chance de acerto crítico mágico é aumentada em %data%%." />
+    <description_wisdom n="Seu dano mágico é aumentado em %data%. (afetado por artes arcanas)" />
+    <description_wisdom n="Cada %data% pontos de sabedoria aumentam sua regeneração de mana em %data%. A cada %data% turnos você regenera %data% mana. Você regenerará mana em %data% turnos. Enquanto estiver fora de combate, o mana regenera em 150%." />//99
+    <description_strength n="Sua penalidade de chance de esquiva causada por sua armadura é %data%%. Força reduz esta penalidade." />//100
+ 	<description_strength n="Cada %data% pontos em força aumentam sua armadura total em %data%. Sua armadura total é aumentada em %data%." />//101
+    <description_vitality n="Cada %data% pontos em vitalidade aumentam todas as suas resistências em 1%. Suas resistências são aumentadas em %data%%." />//102
+    <description_armor n="O dano corpo a corpo recebido é reduzido em %data%%. (precisa de alvo selecionado)" />
+    <description_armor n="Seu acerto mágico e sua chance crítica são reduzidos em %data%%." /> //104
     
     
     <block n="Block:" />//105
